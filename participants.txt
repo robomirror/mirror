@@ -820,7 +820,7 @@ rdm.Grasshopper 0.5e,https://drive.google.com/uc?export=download&id=13-quTbFF1hO
 rdm.WallRider 0.5c,https://drive.google.com/uc?export=download&id=1dzZ-_Q_nDT9DG1uewhHRlFSPTHh91-Dt
 rdt.AgentSmith.AgentSmith 0.5,http://robocode-archive.strangeautomata.com/robots/rdt.AgentSmith.AgentSmith_0.5.jar
 rdt.AgentSmith.AgentSmithRedux 0.02,https://drive.google.com/uc?export=download&id=14odWavgKjNUvf29efol7at5ZJaMgoGeP
-rdt.Wraith.Wraith 0.15,https://drive.google.com/uc?export=download&id=1DoZNF63-z5OGS4OtaQKqrFgSnJE34Z_D
+rdt.Wraith.Wraith 0.17,https://drive.google.com/uc?export=download&id=1c7XDt38Dn3uiv1fXd5AAfKrT1zsoFCY1
 rdt199.Warlord 0.73,http://robocode-archive.strangeautomata.com/robots/rdt199.Warlord_0.73.jar
 reaper.Reaper 1.1,http://robocode-archive.strangeautomata.com/robots/reaper.Reaper_1.1.jar
 reeder.caden.Elmo 1,http://robocode-archive.strangeautomata.com/robots/reeder.caden.Elmo_1.jar
