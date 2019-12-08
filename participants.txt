@@ -933,7 +933,7 @@ skm.butterfly 1.0,http://robocode-archive.strangeautomata.com/robots/sean1.jar
 skm.PateranBotlock2 1.0,http://robocode-archive.strangeautomata.com/robots/skm.PateranBotlock2_1.0.jar
 skm.Ryubot 1.0,http://robocode-archive.strangeautomata.com/robots/skm.Ryubot_1.0.jar
 sL300.Mozart life,http://robocode-archive.strangeautomata.com/robots/sL300.Mozart_life.jar
-slugzilla.Basilisk 3.7,https://drive.google.com/uc?export=download&id=1ggRDyT9EJGgRrPvLdfeVLe6hi5P3IKKM
+slugzilla.Basilisk 3.8,https://drive.google.com/uc?export=download&id=14rBnm6Op5_fPcIC9eizItBAGEq7LtkmF
 slugzilla.Basilite 0.11,https://drive.google.com/uc?export=download&id=15TwArmvGV7bp6PUbBRfMkTHffCvmqjMK
 slugzilla.ButtHead 2.0,https://drive.google.com/uc?export=download&id=11rqwdSdyYHUhpNFY4xsqnRhtFVKvJByw
 slugzilla.SquirmyToad 3.9,https://drive.google.com/uc?export=download&id=1AB9S47yA18TQO0CSghUr_ophL1ckuzSU
