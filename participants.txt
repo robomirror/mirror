@@ -971,7 +971,7 @@ steff.Rebel 2.1,http://dl.dropboxusercontent.com/s/1lqsc0cxaip4wdf/steff.Rebel_2
 stefw.Tigger 0.0.23,http://robocode-archive.strangeautomata.com/robots/stefw.Tigger_0.0.23.jar
 stelo.Chord 1.0,http://robocode-archive.strangeautomata.com/robots/stelo.Chord_1.0.jar
 stelo.FretNano 1.1,http://robocode-archive.strangeautomata.com/robots/stelo.FretNano_1.1.jar
-stelo.Liblix 0.3,https://github.com/kimtg/robocode-bots/releases/download/release/stelo.Liblix_0.3.jar
+stelo.Liblix 0.3.1,https://github.com/kimtg/robocode-bots/releases/download/release/stelo.Liblix_0.3.1.jar
 stelo.Lifestealer 1.0,http://robocode-archive.strangeautomata.com/robots/stelo.Lifestealer_1.0.jar
 stelo.MatchupAGF 1.1,http://robocode-archive.strangeautomata.com/robots/stelo.MatchupAGF_1.1.jar
 stelo.MatchupMicro 1.2,http://robocode-archive.strangeautomata.com/robots/stelo.MatchupMicro_1.2.jar
