@@ -543,6 +543,7 @@ kjc.MailManX 2.0,http://robocode-archive.strangeautomata.com/robots/kjc.MailManX
 klein.GottesKrieger 1.1,http://robocode-archive.strangeautomata.com/robots/klein.GottesKrieger_1.1.jar
 kms.Golden 0.10,http://robocode-archive.strangeautomata.com/robots/kms.Golden_0.10.jar
 kms.Royal 0.15M,http://robocode-archive.strangeautomata.com/robots/kms.Royal_0.15M.jar
+knackibot.KnackOnOne 0.8,https://github.com/knacker123/KnackBot/releases/download/v.0.8/knackibot.KnackOnOne_0.8.jar
 kneels.nano.Derp 0.2,http://www.schickt.de/robocode/kneels.nano.Derp_0.2.jar
 kneels.ToNoone 0.2,http://www.schickt.de/robocode/kneels.ToNoone_0.2.jar
 Krabb.fe4r.Fe4r 0.4,http://robocode-archive.strangeautomata.com/robots/Krabb.fe4r.Fe4r_0.4.jar
