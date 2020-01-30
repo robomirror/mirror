@@ -475,7 +475,7 @@ jgap.JGAP7247_2 1.0,http://robocode-archive.strangeautomata.com/robots/jgap.JGAP
 jgap.JGAP7958 1.0,http://robocode-archive.strangeautomata.com/robots/jgap.JGAP7958_1.0.jar
 jje.BagPuss 1.2,http://robocode-archive.strangeautomata.com/robots/jje.BagPuss_1.2.jar
 jk.mega.DrussGT 3.1.6,https://www.dropbox.com/s/9n5fv4nmj1l4zn4/jk.mega.DrussGT_3.1.6.jar?dl=1
-jk.melee.Neuromancer 7.14a,https://www.dropbox.com/s/qimbxckt2mjj19d/jk.melee.Neuromancer_7.14a.jar?dl=1
+jk.melee.Neuromancer 7.11a,https://www.dropbox.com/s/wzb5mx24lf7dtzw/jk.melee.Neuromancer_7.11a.jar?dl=1
 jk.micro.Cotillion 0.8,https://www.dropbox.com/s/uqk265mlrsf0ogx/jk.micro.Cotillion_0.8.jar?dl=1
 jk.mini.CunobelinDC 1.2,https://www.dropbox.com/s/64apbg0rpztvtly/jk.mini.CunobelinDC_1.2.jar?dl=1
 jk.nano.Machete 2.0,https://www.dropbox.com/s/8wdbhfnui4519rr/jk.nano.Machete_2.0.jar?dl=1
