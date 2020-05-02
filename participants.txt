@@ -720,6 +720,7 @@ omens.CannonfodderMicro 1.4,https://dl.dropbox.com/s/ye675r93lpgpuei/omens.Canno
 omens.CannonfodderNano 1.4,https://dl.dropbox.com/s/u94wp86uo34feue/omens.CannonfodderNano_1.4.jar
 oog.melee.Capulet 1.2,https://sites.google.com/site/crazybassoon/oog.melee.Capulet_1.2.jar
 oog.melee.Mercutio 1.0,http://robocode-archive.strangeautomata.com/robots/oog.melee.Mercutio_1.0.jar
+oog.micro.Claudius 1.0,https://drive.google.com/uc?export=download&id=1JJXM_mgPwxKVK0WDNpf92VUaMABv8bYl
 oog.micro.MagicD3 0.41,http://robocode-archive.strangeautomata.com/robots/oog.micro.MagicD3_0.41.jar
 oog.micro.Maui 1.2,http://robocode-archive.strangeautomata.com/robots/oog.micro.Maui_1.2.jar
 oog.micro.SavantMicro 1.1,http://robocode-archive.strangeautomata.com/robots/oog.micro.SavantMicro_1.1.jar
