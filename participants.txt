@@ -997,7 +997,6 @@ stranger.nano.TestBot 1.0,http://robocode-archive.strangeautomata.com/robots/str
 strider.Festis 1.2.1,http://robocode-archive.strangeautomata.com/robots/strider.Festis_1.2.1.jar
 strider.Mer 1.1.0,http://robocode-archive.strangeautomata.com/robots/strider.Mer_1.1.0.jar
 stuff.Vlad 0.1,http://robocode-archive.strangeautomata.com/robots/stuff.Vlad_0.1.jar
-subm.fd.nano.FireDragon 1.0.1,https://drive.google.com/uc?export=download&id=1LvuXCsMKDLlEqWWp23XQOK4msZ_xZptb
 suh.mega.WaveSurferGF 1.04,http://robocode-archive.strangeautomata.com/robots/suh.mega.WaveSurferGF_1.04.jar
 suh.mega.WaveSurferPG 1.06,http://robocode-archive.strangeautomata.com/robots/suh.mega.WaveSurferPG_1.06.jar
 suh.micro.MirrorPM 1.00,http://robocode-archive.strangeautomata.com/robots/suh.micro.MirrorPM_1.00.jar
