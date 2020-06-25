@@ -544,7 +544,6 @@ kjc.MailManX 2.0,http://robocode-archive.strangeautomata.com/robots/kjc.MailManX
 klein.GottesKrieger 1.1,http://robocode-archive.strangeautomata.com/robots/klein.GottesKrieger_1.1.jar
 kms.Golden 0.10,http://robocode-archive.strangeautomata.com/robots/kms.Golden_0.10.jar
 kms.Royal 0.15M,http://robocode-archive.strangeautomata.com/robots/kms.Royal_0.15M.jar
-knackibot.KnackOnOne 0.8,https://github.com/knacker123/KnackBot/releases/download/v.0.8/knackibot.KnackOnOne_0.8.jar
 kneels.nano.Derp 0.2,http://www.schickt.de/robocode/kneels.nano.Derp_0.2.jar
 kneels.ToNoone 0.2,http://www.schickt.de/robocode/kneels.ToNoone_0.2.jar
 Krabb.fe4r.Fe4r 0.4,http://robocode-archive.strangeautomata.com/robots/Krabb.fe4r.Fe4r_0.4.jar
@@ -984,12 +983,10 @@ stelo.Mirror 1.1,http://robocode-archive.strangeautomata.com/robots/stelo.Mirror
 stelo.MirrorMicro 1.1,http://robocode-archive.strangeautomata.com/robots/stelo.MirrorMicro_1.1.jar
 stelo.MirrorNano 1.4,http://robocode-archive.strangeautomata.com/robots/stelo.MirrorNano_1.4.jar
 stelo.MoojukNano 1.2,http://robocode-archive.strangeautomata.com/robots/stelo.MoojukNano_1.2.jar
-stelo.PastFuture 2.3.1,https://github.com/kimtg/robocode-bots/releases/download/release/stelo.PastFuture_2.3.1.jar
 stelo.PatternRobot 1.0,http://robocode-archive.strangeautomata.com/robots/stelo.PatternRobot_1.0.jar
 stelo.PianistNano 1.3,http://robocode-archive.strangeautomata.com/robots/stelo.PianistNano_1.3.jar
 stelo.RamTrackSurfer 1.2,http://robocode-archive.strangeautomata.com/robots/stelo.RamTrackSurfer_1.2.jar
 stelo.Randomness 1.1,http://robocode-archive.strangeautomata.com/robots/stelo.Randomness_1.1.jar
-stelo.Spread 0.5.2,https://github.com/kimtg/robocode-bots/releases/download/release/stelo.Spread_0.5.2.jar
 stelo.SteloTestNano 1.0,http://robocode-archive.strangeautomata.com/robots/stelo.SteloTestNano_1.0.jar
 stelo.UnfoolableNano 1.0,http://robocode-archive.strangeautomata.com/robots/stelo.UnfoolableNano_1.0.jar
 stelo.UntouchableNano 1.4,http://robocode-archive.strangeautomata.com/robots/stelo.UntouchableNano_1.4.jar
