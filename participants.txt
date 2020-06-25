@@ -350,7 +350,6 @@ extra.Sauce .01,http://robocode-archive.strangeautomata.com/robots/extra.Sauce_.
 fala.robocode.FalaRobot 1.0,http://robocode-archive.strangeautomata.com/robots/fala.robocode.FalaRobot_1.0.jar
 FatalFlaw.FatalFlaw 1.0.5,http://robocode-archive.strangeautomata.com/robots/FatalFlaw.FatalFlaw_1.0.5.jar
 fcr.First 1.0,http://robocode-archive.strangeautomata.com/robots/fcr.First_1.0.jar
-fd.shark.Quickfd 1.0.5,https://drive.google.com/uc?export=download&id=1xpV3SfbDICm2vz1WKCsP0OInPytNAzjE
 Fenix.FenixTrack 1.0,http://robocode-archive.strangeautomata.com/robots/Fenix.FenixTrack_1.0.jar
 fire219.CatBot 1.0,http://robocode-archive.strangeautomata.com/robots/fire219.CatBot_1.0.jar
 fire219.cymba.Cymba 1.8,http://robocode-archive.strangeautomata.com/robots/fire219.cymba.Cymba_1.8.jar
