@@ -1,6 +1,6 @@
 a.FreyaOS 1.0,http://robocode-archive.strangeautomata.com/robots/a.FreyaOS_1.0.jar
 aaa.n.ScalarN 0.011d.166,https://drive.google.com/uc?export=download&id=1D0WzOyq80I57ZCsnJ3QhiH0uT4MD-49C
-aaa.r.ScalarR 0.005g.090,https://drive.google.com/uc?export=download&id=197sE-EIGt_NkIymidktMLvPyxJkuIBwN
+aaa.r.ScalarR 0.005g.092,https://drive.google.com/uc?export=download&id=1rhUPfYr2oSUcJwc0kyIxUENbFud9d-Rd
 aaa.r.ShieldR 0.001b10,https://drive.google.com/uc?export=download&id=1ZOQLEcLjvuQxe-ehI1TJUFdoLuMpdVr2
 ab.DengerousRoBatra 1.3,http://robocode-archive.strangeautomata.com/robots/ab.DengerousRoBatra_1.3.jar
 abc.Shadow 3.83c,http://robocode.aclsi.pt/abc.Shadow_3.83c.jar
