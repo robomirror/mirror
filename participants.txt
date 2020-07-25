@@ -285,7 +285,7 @@ drm.CobraBora 1.12,http://robocode-archive.strangeautomata.com/robots/drm.CobraB
 drm.Magazine 0.39,http://robocode-archive.strangeautomata.com/robots/drm.Magazine_0.39.jar
 ds.OoV4 0.3b,http://robocode-archive.strangeautomata.com/robots/ds.OoV4_0.3b.jar
 ds.Versatile RB1.0.1,http://robocode-archive.strangeautomata.com/robots/ds.Versatile_RB1.0.1.jar
-dsekercioglu.mega.Raven 3.17,https://www.dropbox.com/s/9cy9boolgr9xkw7/dsekercioglu.mega.Raven_3.17.jar?dl=1
+dsekercioglu.mega.Raven 3.17b,https://www.dropbox.com/s/8v2x5cot0vekjk0/dsekercioglu.mega.Raven_3.17b.jar?dl=1
 dsekercioglu.mega.WhiteFang 2.8.1,https://www.dropbox.com/s/bftqx43ndhspxar/dsekercioglu.mega.WhiteFang_2.8.1.jar?dl=1
 dsekercioglu.mini.Partial 0.1.3,https://www.dropbox.com/s/csz7bmkyoc7smm5/dsekercioglu.mini.Partial_0.1.3.jar?dl=1
 dsekercioglu.shield.ColdBreath 1.0,https://www.dropbox.com/s/5qiowh0qm6holb4/dsekercioglu.shield.ColdBreath_1.0.jar?dl=1
