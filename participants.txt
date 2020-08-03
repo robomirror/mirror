@@ -127,7 +127,7 @@ bots.UberBot 1.2c,http://robocode-archive.strangeautomata.com/robots/bots.UberBo
 bots.UnterBot 1.0,http://robocode-archive.strangeautomata.com/robots/bots.UnterBot_1.0.jar
 bots.UnterExBot 1.0,http://robocode-archive.strangeautomata.com/robots/bots.UnterExBot_1.0.jar
 bp.Kuma 1.0,http://robocode-archive.strangeautomata.com/robots/bp.Kuma_1.0.jar
-bqf.Hadou 1.0.jar,https://drive.google.com/uc?export=download&id=1rYwVPxYqxtQgbukr6-AJJa6Cpf5B9zNK
+bqf.Hadou 1.0,https://drive.google.com/uc?export=download&id=1rYwVPxYqxtQgbukr6-AJJa6Cpf5B9zNK
 braaropolis.Abot 1.0,http://robocode-archive.strangeautomata.com/robots/braaropolis.Abot_1.0.jar
 brainfade.Fallen 0.63,http://robocode-archive.strangeautomata.com/robots/brainfade.Fallen_0.63.jar
 brainfade.melee.Dusk 0.44,http://robocode-archive.strangeautomata.com/robots/brainfade.melee.Dusk_0.44.jar
