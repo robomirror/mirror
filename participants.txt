@@ -403,7 +403,7 @@ gio.RealGioBot 1.0,http://robocode-archive.strangeautomata.com/robots/gio.RealGi
 gjr.Cephalosporin 0.2,http://robocode-archive.strangeautomata.com/robots/gjr.Cephalosporin_0.2.jar
 gm.GaetanoA 2.15,http://robocode-archive.strangeautomata.com/robots/gm.GaetanoA_2.15.jar
 goblin.Bender 2.4,http://robocode-archive.strangeautomata.com/robots/goblin.Bender_2.4.jar
-gre.svman4.Leonidas 1.1,http://sv9rha.onmypc.org/robocode/gre.svman4.Leonidas_1.1.jar
+gre.svman4.Leonidas 1.1,https://drive.google.com/uc?export=download&id=11H_MLfHTd2otq6UmwAf0AKjj_Nrb3G2t
 gre.svman4.Morfeas 1.4.3,https://drive.google.com/uc?export=download&id=1f2vZRXjkvbGV3htPNoF_0WU6sZmg0FOv
 grybgoofy.GoofyBot 0.10,http://robocode-archive.strangeautomata.com/robots/grybgoofy.GoofyBot_0.10.jar
 Grystrion.RandomTrackerNOREV 1.0,https://www.dropbox.com/s/9ym5golnwurhfxw/Grystrion.RandomTrackerNOREV_1.0.jar?dl=1
