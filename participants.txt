@@ -1109,6 +1109,7 @@ velas.Beta_2_0 2.0,https://www.dropbox.com/s/3kyftgk3r48h3lj/velas.Beta_2_0_2.0.
 vft.Hrist 1.0,http://robocode-archive.strangeautomata.com/robots/vft.Hrist_1.0.jar
 vft.Valkyrie 1.0,http://robocode-archive.strangeautomata.com/robots/vft.Valkyrie_1.0.jar
 vic.Locke 0.7.5.5,http://robocode-archive.strangeautomata.com/robots/vic.Locke_0.7.5.5.jar
+vishius.Orbiter 1.0,https://drive.google.com/uc?export=download&id=1vFOHdjnpPtR-F3_Zl_uHUuK66XATjv_t
 vjik.UnViolation 1.1,http://robocode-archive.strangeautomata.com/robots/vjik.UnViolation_1.1.jar
 voidious.Diamond 1.8.22,http://robocode-archive.strangeautomata.com/robots/voidious.Diamond_1.8.22.jar
 voidious.Dookious 1.573c,http://robocode-archive.strangeautomata.com/robots/voidious.Dookious_1.573c.jar
