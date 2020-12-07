@@ -849,6 +849,7 @@ robin.SCALPBot 1.0,http://www.fairyapp.com.au/robin.SCALPBot_1.0.jar
 robin.ScalpBotC 1.0,http://fairyapp.com.au/robin.ScalpBotC_1.0.jar
 robo.PartsBot 1.1,http://robocode-archive.strangeautomata.com/robots/robo.PartsBot_1.1.jar
 RobotMarco.MarcoV 0.1,http://robocode-archive.strangeautomata.com/robots/RobotMarco.MarcoV_0.1.jar
+robots.Lucky 1.0,https://www.dropbox.com/s/vnfkkm3vqy6gfp5/robots.Lucky_1.0.jar?dl=1
 romz.robot.circular.WildRabbit 0.9.6,http://robocode-archive.strangeautomata.com/robots/romz.robot.circular.WildRabbit_0.9.6.jar
 romz.robot.guessfactor.TeasingFox 0.2,http://robocode-archive.strangeautomata.com/robots/romz.robot.guessfactor.TeasingFox_0.2.jar
 romz.robot.Test 0.1.0,http://robocode-archive.strangeautomata.com/robots/romz.robot.Test_0.1.0.jar
