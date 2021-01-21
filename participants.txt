@@ -389,7 +389,7 @@ germ.TheMind .2,http://robocode-archive.strangeautomata.com/robots/germ.TheMind_
 gf.Centaur.Centaur 0.6.7,http://robocode-archive.strangeautomata.com/robots/gf.Centaur.Centaur_0.6.7.jar
 gg.Squaraus 0.6,http://robocode-archive.strangeautomata.com/robots/gg.Squaraus_0.6.jar
 gg.Wolverine 2.0,http://robocode-archive.strangeautomata.com/robots/gg.Wolverine_2.0.jar
-gh.GresSuffurd 0.4.5,https://drive.google.com/uc?export=download&id=1k_wZ-60WRZjJw-kYw2n5zuK6wtPiUbAL
+gh.GresSuffurd 0.4.6,https://drive.google.com/uc?export=download&id=1xtBpGNExpkcGlWGAirlrDjrmr-xz9Hta
 gh.GrubbmGrb 1.2.4,http://robocode-archive.strangeautomata.com/robots/gh.GrubbmGrb_1.2.4.jar
 gh.GrypRepetyf 0.13,http://robocode-archive.strangeautomata.com/robots/gh.GrypRepetyf_0.13.jar
 gh.micro.Grinnik 1.0,https://drive.google.com/uc?export=download&id=1Lq4u5EKdWT6vP_pcBR62BoKC8nddWFp0
