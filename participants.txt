@@ -10,6 +10,7 @@ acid.Bl4ck 1.0,https://dl.dropboxusercontent.com/s/vaq7j18cnweocba/acid.Bl4ck_1.
 acid.Null 1.0,https://dl.dropboxusercontent.com/s/b2ncehfu900jmwh/acid.Null_1.0.jar
 acid.Syzygy 1.0.4,https://dl.dropbox.com/s/r53cd4xezv0ils5/acid.Syzygy_1.0.4.jar
 acogdev.alpha 0.2,https://sites.google.com/site/cqjake/robocode/acogdev.alpha_0.2.jar
+AD.CodaFirst 1.1,https://drive.google.com/uc?export=download&id=1TKox0je5Jtf-2kTDplzjFIYAuk9vAxG8
 ad.last.Bottom 1.0,http://robocode-archive.strangeautomata.com/robots/ad.last.Bottom_1.0.jar
 ad.Quest 0.10,http://robocode-archive.strangeautomata.com/robots/ad.Quest_0.10.jar
 adt.Ar1 2.1,http://robocode-archive.strangeautomata.com/robots/adt.Ar1_2.1.jar
