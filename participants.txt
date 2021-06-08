@@ -233,7 +233,7 @@ dcs.Eater_of_Worlds 1.1.3-A,http://robocode-archive.strangeautomata.com/robots/d
 dcs.Eater_of_Worlds_Mini 1.0,http://robocode-archive.strangeautomata.com/robots/dcs.Eater_of_Worlds_Mini_1.0.jar
 dcs.PM.Eater_of_Worlds_PM 1.2,http://robocode-archive.strangeautomata.com/robots/dcs.PM.Eater_of_Worlds_PM_1.2.jar
 de.erdega.robocode.Polyphemos 0.4,http://robocode-archive.strangeautomata.com/robots/de.erdega.robocode.Polyphemos_0.4.jar
-de.simpleworks.robocode.bots.swiBot 1.0,http://fmg.96.lt/robocode/de.simpleworks.robocode.bots.swiBot_1.0.jar
+de.simpleworks.robocode.bots.swiBot 1.0,http://robocode-archive.strangeautomata.com/robots/de.simpleworks.robocode.bots.swiBot_1.0.jar
 de.simpleworks.robocode.bots.swiBot 1.1,http://fmg.96.lt/robocode/de.simpleworks.robocode.bots.swiBot_1.1.jar
 deewiant.Anomaly 0.2,http://www.iki.fi/~deewiant/files/deewiant.Anomaly_0.2.jar
 deith.Czolgzilla 0.11,http://robocode-archive.strangeautomata.com/robots/deith.Czolgzilla_0.11.jar
@@ -313,7 +313,7 @@ ebo.Sparse 0.02,http://www.4geeks.de/files/ebo.Sparse_0.02.jar
 ebo.Tahoe 1.1.79,http://www.4geeks.de/files/ebo.Tahoe_1.1.79.jar
 EE.LittleBig 1.0,http://robocode-archive.strangeautomata.com/robots/EE.LittleBig_1.0.jar
 eem.awful v1.2,https://evmik.org/~evmik/robocode/eem.awful_v1.2.jar
-eem.EvBot v4.6.4,https://evmik.org/~evmik/robocode/eem.EvBot_v4.6.4.jar
+eem.EvBot v4.6.4,http://robocode-archive.strangeautomata.com/robots/eem.EvBot_v4.6.4.jar
 eem.EvBotNG v12.8,https://evmik.org/~evmik/robocode/eem.EvBotNG_v12.8.jar
 eem.IWillFireNoBullet v2.4,https://evmik.org/~evmik/robocode/eem.IWillFireNoBullet_v2.4.jar
 eem.zapper v4.2,https://evmik.org/~evmik/robocode/eem.zapper_v4.2.jar
