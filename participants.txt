@@ -21,7 +21,7 @@ agd.Mooserwirt2 2.7,http://robocode-archive.strangeautomata.com/robots/agd.Moose
 agrach.Dalek 1.0,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/agrach.Dalek_1.0.jar
 agrach.MicroDalek 1.0,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/agrach.MicroDalek_1.0.jar
 agrach.RobotSlayer 1.0,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/agrach.RobotSlayer_1.0.jar
-ags.Glacier 0.2.8,http://robocode-archive.strangeautomata.com/robots/ags.Glacier_0.2.8.jar
+ags.Glacier 0.2.10,http://robocode-archive.strangeautomata.com/robots/ags.Glacier_0.2.10.jar
 ags.micro.Carpet 1.1,http://robocode-archive.strangeautomata.com/robots/ags.micro.Carpet_1.1.jar
 ags.Midboss 1q.fast,http://robocode-archive.strangeautomata.com/robots/ags.Midboss_1q.fast.jar
 ags.polished.PolishedRuby 1,http://robocode-archive.strangeautomata.com/robots/ags.polished.PolishedRuby_1.jar
