@@ -1,10 +1,8 @@
 a.FreyaOS 1.0,http://robocode-archive.strangeautomata.com/robots/a.FreyaOS_1.0.jar
-aaa.n.ScalarN 0.011d.166,https://drive.google.com/uc?export=download&id=1D0WzOyq80I57ZCsnJ3QhiH0uT4MD-49C
 aaa.r.ScalarR 0.005h.019,https://drive.google.com/uc?export=download&id=1utMZoFtpyo3XednMb_tVa9eUA9zxqs6f
 aaa.r.ShieldR 0.001b10,https://drive.google.com/uc?export=download&id=1ZOQLEcLjvuQxe-ehI1TJUFdoLuMpdVr2
 ab.DengerousRoBatra 1.3,http://robocode-archive.strangeautomata.com/robots/ab.DengerousRoBatra_1.3.jar
 abc.Shadow 3.83c,http://robocode.aclsi.pt/abc.Shadow_3.83c.jar
-abc.tron3.Tron 3.11,http://robocode-archive.strangeautomata.com/robots/abc.tron3.Tron_3.11.jar
 abud.ThirdRobo 1.0,http://robocode-archive.strangeautomata.com/robots/abud.ThirdRobo_1.0.jar
 acid.Bl4ck 1.0,https://dl.dropboxusercontent.com/s/vaq7j18cnweocba/acid.Bl4ck_1.0.jar
 acid.Null 1.0,https://dl.dropboxusercontent.com/s/b2ncehfu900jmwh/acid.Null_1.0.jar
@@ -401,7 +399,6 @@ ghent.ArthurPanzergon 1.0.0,http://franck.jousseaume.free.fr/robocode/ArthurPanz
 gimp.GimpBot 0.1,http://robocode-archive.strangeautomata.com/robots/gimp.GimpBot_0.1.jar
 gio.RealGioBot 1.0,http://robocode-archive.strangeautomata.com/robots/gio.RealGioBot_1.0.jar
 gjr.Cephalosporin 0.2,http://robocode-archive.strangeautomata.com/robots/gjr.Cephalosporin_0.2.jar
-gm.GaetanoA 2.15,http://robocode-archive.strangeautomata.com/robots/gm.GaetanoA_2.15.jar
 goblin.Bender 2.4,http://robocode-archive.strangeautomata.com/robots/goblin.Bender_2.4.jar
 gre.svman4.Leonidas 1.3.2,https://drive.google.com/uc?export=download&id=1ZeSWWgjvqsnq-44JyQR776ebBuOnTTd3
 gre.svman4.Morfeas 1.4.3,https://drive.google.com/uc?export=download&id=1f2vZRXjkvbGV3htPNoF_0WU6sZmg0FOv
