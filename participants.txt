@@ -1117,7 +1117,7 @@ voidious.micro.Jen 1.11,http://robocode-archive.strangeautomata.com/robots/voidi
 voidious.mini.Komarious 1.88,http://robocode-archive.strangeautomata.com/robots/voidious.mini.Komarious_1.88.jar
 voidious.perceptual.RetroGirl 1.0.0,http://robocode-archive.strangeautomata.com/robots/voidious.perceptual.RetroGirl_1.0.0.jar
 vort.Chaser 0.0.3,https://github.com/Vort/Chaser/blob/master/packed/vort.Chaser_0.0.3.jar?raw=true
-vStar.RAFzilla 2.15,https://sites.google.com/site/vstarrobocode/fil/vStar.RAFzilla_2.15.jar?attredirects=0&d=1
+vStar.RAFzilla 2.15,https://drive.google.com/uc?export=download&id=1mSf7wnoO5VnMdHDCJcC-tT9X7NzIcLJF
 vuen.Fractal 0.55,http://robocode-archive.strangeautomata.com/robots/vuen.Fractal_0.55.jar
 WarfaJibril.Jibril_Warfa_Andromeda 1.11,http://robocode-archive.strangeautomata.com/robots/WarfaJibril.Jibril_Warfa_Andromeda_1.11.jar
 wcsv.Engineer.Engineer 0.5.4,http://robocode-archive.strangeautomata.com/robots/wcsv.Engineer.Engineer_0.5.4.jar
