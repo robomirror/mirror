@@ -178,6 +178,7 @@ com.arsenic.NewTest 1.0,http://robocode-archive.strangeautomata.com/robots/com.a
 com.blogspot.malinkody.DestrobotMalin 1.0,http://robocode-archive.strangeautomata.com/robots/com.blogspot.malinkody.DestrobotMalin_1.0.jar
 com.cohesiva.robocode.ManOwaR 1.0,http://robocode-archive.strangeautomata.com/robots/com.cohesiva.robocode.ManOwaR_1.0.jar
 com.sociesc.T1000 1.0.0,http://robocode-archive.strangeautomata.com/robots/com.sociesc.T1000_1.0.0.jar
+com.spp.robocode.MostlyHarmless 010,https://drive.google.com/u/0/uc?id=1VAJUrVH2LCj94MJyQXBL9w8NtNeSoCtm&export=download
 com.syncleus.robocode.Dreadnaught 0.1,http://robocode-archive.strangeautomata.com/robots/com.syncleus.robocode.Dreadnaught_0.1.jar
 com.timothyveletta.FuzzyBot 1.1,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/com.timothyveletta.FuzzyBot_1.1.jar
 conscience.Bulldozer 1.0a,http://robocode-archive.strangeautomata.com/robots/conscience.Bulldozer_1.0a.jar
