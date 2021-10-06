@@ -336,7 +336,7 @@ ender.EnderRobot 1.1,https://dl.dropbox.com/s/iwl74grt9ogcst0/ender.EnderRobot_1
 ep.MyFirstRobot 1.0,https://www.dropbox.com/s/iy5h7yhvguiq9ac/ep.MyFirstRobot_1.0.jar?dl=1
 erdnis.Rover 0.3,http://www.free-games-fun.com/erdnis.Rover_0.3.jar
 ers.micro.ISuck.ISuckMicro 0.1f,https://github.com/ersamson/robocode/raw/main/ers.micro.ISuck.ISuckMicro_0.1f.jar
-ers.nano.ISuck.ISuckNano 0.1e,https://github.com/ersamson/robocode/raw/main/ers.nano.ISuck.ISuckNano_0.1e.jar
+ers.nano.ISuck.ISuckNano 0.1f,https://github.com/ersamson/robocode/raw/main/ers.nano.ISuck.ISuckNano_0.1f.jar
 ers.nano.ISuckMA.ISuckNanoMA 0.1a,https://github.com/ersamson/robocode/raw/main/ers.nano.ISuckMA.ISuckNanoMA_0.1a.jar
 eskimo.micro.Echo 0.1,http://robocode-archive.strangeautomata.com/robots/eskimo.micro.Echo_0.1.jar
 et.Predator 1.8,http://robocode-archive.strangeautomata.com/robots/et.Predator_1.8.jar
