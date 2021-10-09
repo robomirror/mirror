@@ -832,6 +832,7 @@ reeder.caden.Grover 1.0,http://robocode-archive.strangeautomata.com/robots/reede
 reeder.colin.WallGuy3 1.0,http://robocode-archive.strangeautomata.com/robots/reeder.colin.WallGuy3_1.0.jar
 repositorio.NanoStep 1.0,http://robocode-archive.strangeautomata.com/robots/repositorio.NanoStep_1.0.jar
 rfj.Sunburn 1.1,http://robocode-archive.strangeautomata.com/robots/rfj.Sunburn_1.1.jar
+rh.abs.Xwing 2.1,https://drive.google.com/uc?export=download&id=1sYeg22vzUJX1e77adZS2mRc0iqTlDNtP
 rijteam.SmartDodge 1.1,http://robocode-archive.strangeautomata.com/robots/rijteam.SmartDodge_1.1.jar
 rjw.RabidWombat 0.71,http://robocode-archive.strangeautomata.com/robots/rjw.RabidWombat_0.71.jar
 rnatest.MendelBot 1.0,http://dl.dropboxusercontent.com/s/ci2x5gxbtceo4r2/rnatest.MendelBot_1.0.jar
