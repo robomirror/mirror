@@ -905,6 +905,7 @@ sch.Simone 0.3d,http://robocode-archive.strangeautomata.com/robots/sch.Simone_0.
 scheronimus.AntiRebel 1.1,http://dl.dropboxusercontent.com/s/a80c392snb4iukk/scheronimus.AntiRebel_1.1.jar
 scheronimus.NanoScheroBot 1.0,http://dl.dropboxusercontent.com/s/ps150wpts8dsa07/scheronimus.NanoScheroBot_1.0.jar
 scheronimus.ScheroBot 2.3,http://dl.dropboxusercontent.com/s/f0eyryuahcjiwhb/scheronimus.ScheroBot_2.3.jar
+seed.Anastasia 1.0,https://drive.google.com/uc?export=download&id=1c22D76vcpopX2ecrQSKHgq0eaKtYgrm4
 seed.Weed 3.0.2,https://drive.google.com/uc?export=download&id=1WCScJ02pbGZWfnOBW2cjpZlmW2ivMhuY
 serenity.moonlightBat 1.17,http://robocode-archive.strangeautomata.com/robots/serenity.moonlightBat_1.17.jar
 serenity.nonSense 1.39,http://robocode-archive.strangeautomata.com/robots/serenity.nonSense_1.39.jar
