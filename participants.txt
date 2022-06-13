@@ -1112,7 +1112,7 @@ uccc.RingDing 1.12,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/
 uccc.Scrapple 1.0,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/uccc.Scrapple_1.0.jar
 ultra.Defender 1.2,http://robocode-archive.strangeautomata.com/robots/ultra.Defender_1.2.jar
 unarmedlad.nano.VirginSteele 2.2,https://dl.dropbox.com/s/nt32eas7mzp7wbe/unarmedlad.nano.VirginSteele_2.2.jar
-ur4n0.UR4N0 1.0,https://github.com/UR4N0-235/UR4NO/raw/main/ur4n0.UR4NO_1.0.jar
+ur4n0.UR4NO 1.0,https://github.com/UR4N0-235/UR4NO/raw/main/ur4n0.UR4NO_1.0.jar
 urdos.URDOS 1.3,http://robocode-archive.strangeautomata.com/robots/urdos.URDOS_1.3.jar
 usa.nano.Nemo 2.0,http://robocode-archive.strangeautomata.com/robots/usa.nano.Nemo_2.0.jar
 velas.Alpha 1.0,https://www.dropbox.com/s/30rqwdjtbg9cyq7/velas.Alpha_1.0.jar?dl=1
