@@ -953,6 +953,7 @@ slugzilla.OrbitPattern 1.1,https://drive.google.com/uc?export=download&id=1lRrab
 slugzilla.OscillateGF 1.0,https://drive.google.com/uc?export=download&id=1pfSQW1Lb_jZEJDzoU-Iu9xu8m5Ef1iUX
 slugzilla.OscillateLinear 1.0,https://drive.google.com/uc?export=download&id=1bqZQbUUcFXMgIvtQaDkZD9xKkF_5iuzq
 slugzilla.OscillatePattern 1.0,https://drive.google.com/uc?export=download&id=1lKxnS3QDsnTUksw_tRvbn61YNJkzASBx
+slugzilla.Parallax 0.1,https://drive.google.com/uc?export=download&id=1lcthCi5qKOpEmPIzlKD4Xpd1Z7pzt2hT
 slugzilla.RandomGF 1.0,https://drive.google.com/uc?export=download&id=1rlJVoo4o22yqHDKcCNTS8ZoGpcm-G-8S
 slugzilla.RandomLinear 1.0,https://drive.google.com/uc?export=download&id=1DephuQvcohsvU3JrZnuTLt4vZtn__jpg
 slugzilla.RandomPattern 1.0,https://drive.google.com/uc?export=download&id=1bSJTvDRjaPHhmd1enHXINvs5OeNDDXAR
