@@ -422,6 +422,7 @@ ha2.T3 0.2,http://robocode-archive.strangeautomata.com/robots/ha2.T3_0.2.jar
 hamilton.Hamilton 1.0,http://robocode-archive.strangeautomata.com/robots/hamilton.Hamilton_1.0.jar
 hapiel.Spiral 0.1,http://robocode-archive.strangeautomata.com/robots/hapiel.Spiral_0.1.jar
 Heal.TekitokaBot 1.0,http://robocode-archive.strangeautomata.com/robots/Heal.TekitokaBot_1.0.jar
+hfg 1.0,https://www.dropbox.com/s/8pflg5ttai9jy5b/hfgrobots.HFG_1.0.jar?dl=1
 hirataatsushi.Neo 1.6,http://robocode-archive.strangeautomata.com/robots/hirataatsushi.Neo_1.6.jar
 hirataatsushi.Trinity 0.003,http://robocode-archive.strangeautomata.com/robots/hirataatsushi.Trinity_0.003.jar
 hlavko.micro.Flex 1.5,http://robocode-archive.strangeautomata.com/robots/hlavko.micro.Flex_1.5.jar
