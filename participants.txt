@@ -314,7 +314,7 @@ eem.awful v1.2,https://evmik.com/~evmik/robocode/eem.awful_v1.2.jar
 eem.EvBot v4.6.4,https://evmik.com/~evmik/robocode/eem.EvBot_v4.6.4.jar
 eem.EvBotNG v12.8,https://evmik.com/~evmik/robocode/eem.EvBotNG_v12.8.jar
 eem.IWillFireNoBullet v2.4,https://evmik.com/~evmik/robocode/eem.IWillFireNoBullet_v2.4.jar
-eem.zapper v4.15,https://evmik.com/~evmik/robocode/eem.zapper_v4.15.jar
+eem.zapper v4.16,https://evmik.com/~evmik/robocode/eem.zapper_v4.16.jar
 EFD.AdvancedEFD 0.4.5a,http://robocode-archive.strangeautomata.com/robots/EFD.AdvancedEFD_0.4.5a.jar
 EH.Fusion 0.32,http://robocode-archive.strangeautomata.com/robots/EH.Fusion_0.32.jar
 EH.kms.LightningStorm 0.11B,http://robocode-archive.strangeautomata.com/robots/EH.kms.LightningStorm_0.11B.jar
