@@ -383,6 +383,7 @@ fullsail.TimbotNoPrediction 1.0,http://robocode-archive.strangeautomata.com/robo
 fushi.PvP1.PvP1 2004-02-16,http://robocode-archive.strangeautomata.com/robots/fushi.PvP1.PvP1_2004-02-16.jar
 fw.Number1 1.0b,http://robocode-archive.strangeautomata.com/robots/fw.Number1_1.0b.jar
 gadsky.Gadsky 1.01,http://robocode-archive.strangeautomata.com/robots/gadsky.Gadsky_1.01.jar
+GarmBox.Anger 1.0,https://drive.google.com/uc?export=download&id=12mUMd9tKHdCAV_JYVSuyJfkwVl6HZ42y
 Gecko.ultimateGeckoBot 1.0,http://robocode-archive.strangeautomata.com/robots/Gecko.ultimateGeckoBot_1.0.jar
 geep.mini.GPBotA 1.0,http://robocode-archive.strangeautomata.com/robots/geep.mini.GPBotA_1.0.jar
 geep.mini.GPBotB 1.1,http://robocode-archive.strangeautomata.com/robots/geep.mini.GPBotB_1.1.jar
