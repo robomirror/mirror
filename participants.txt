@@ -263,6 +263,7 @@ dk.stable.Gorgatron 1.1,http://robocode-archive.strangeautomata.com/robots/dk.st
 dks.MicroDanMK2 1.0,http://robocode-archive.strangeautomata.com/robots/dks.MicroDanMK2_1.0.jar
 DM.Capriite 3.7.2,http://robocode-archive.strangeautomata.com/robots/DM.Capriite_3.7.2.jar
 DM.Chicken 4.0,http://robocode-archive.strangeautomata.com/robots/DM.Chicken_4.0.jar
+DM.mega.Bezier 1.618fprrr,https://onedrive.live.com/download?resid=E8BCC2961CF9D647%213346&authkey=!AISvjCSnfLr8pQs
 DM.mega.Regicide 2.0rrr,https://onedrive.live.com/download?resid=E8BCC2961CF9D647%213345&authkey=!ALncIZkNsg6UQoM
 DM.Mijit .3,http://robocode-archive.strangeautomata.com/robots/DM.Mijit_.3.jar
 dmh.robocode.robot.BlackDeath 9.2,https://www.dropbox.com/s/tads4vk7jrgmv6u/dmh.robocode.robot.BlackDeath_9.2.jar?dl=1
