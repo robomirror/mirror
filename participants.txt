@@ -23,7 +23,7 @@ ags.Midboss 1q.fast,http://robocode-archive.strangeautomata.com/robots/ags.Midbo
 ags.polished.PolishedRuby 1,http://robocode-archive.strangeautomata.com/robots/ags.polished.PolishedRuby_1.jar
 ags.rougedc.RougeDC willow,http://robocode-archive.strangeautomata.com/robots/ags.rougedc.RougeDC_willow.jar
 ahf.Acero 1.0,http://robocode-archive.strangeautomata.com/robots/ahf.Acero_1.0.jar
-ahf.NanoAndrew .4,http://robocode-archiers.nano.Ligg.LiggMA_1.2ve.strangeautomata.com/robots/ahf.NanoAndrew_.4.jar#10!2023-10-25T21:00:02
+ahf.NanoAndrew .4,http://robocode-archiers.nano.Ligg.LiggMA_1.2ve.strangeautomata.com/robots/ahf.NanoAndrew_.4.jar#11!2023-10-26T06:00:02
 ahf.r2d2.R2d2 0.86,http://robocode-archive.strangeautomata.com/robots/ahf.r2d2.R2d2_0.86.jar
 ahr.ice.Ice 1.0,http://robocode-archive.strangeautomata.com/robots/ahr.ice.Ice_1.0.jar
 AIR.iRobot 1.0,http://robocode-archive.strangeautomata.com/robots/AIR.iRobot_1.0.jar
@@ -341,7 +341,7 @@ ers.nano.ISuck.ISuckNano 0.1d,https://github.com/ersamson/robocode/raw/main/ers.
 ers.nano.Lig.LigMA 1.6,https://github.com/ersamson/robocode/raw/main/ers.nano.Lig.LigMA_1.6.jar
 ers.nano.Meroka.Meroka 1.7,https://github.com/ersamson/robocode/raw/main/ers.nano.Meroka.Meroka_1.7.jar
 ers.nano.Sugma.SugmaVCS 1.2,https://github.com/ersamson/robocode/raw/main/ers.nano.Sugma.SugmaVCS_1.2.jar
-ers.nano.Sunderer.Sunderer 1.5,https://github.com/ersamson/robocode/raw/main/ers.nano.Sunderer.Sunderer_1.5.jar
+ers.nano.Sunderer.Sunderer 1.3a,https://github.com/ersamson/robocode/raw/main/ers.nano.Sunderer.Sunderer_1.3a.jar
 ers.nano.too.ISuckToo 1.0b,https://github.com/ersamson/robocode/raw/main/ers.nano.too.ISuckToo_1.0b.jar
 eskimo.micro.Echo 0.1,http://robocode-archive.strangeautomata.com/robots/eskimo.micro.Echo_0.1.jar
 et.Predator 1.8,http://robocode-archive.strangeautomata.com/robots/et.Predator_1.8.jar
