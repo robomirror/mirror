@@ -23,7 +23,7 @@ ags.Midboss 1q.fast,http://robocode-archive.strangeautomata.com/robots/ags.Midbo
 ags.polished.PolishedRuby 1,http://robocode-archive.strangeautomata.com/robots/ags.polished.PolishedRuby_1.jar
 ags.rougedc.RougeDC willow,http://robocode-archive.strangeautomata.com/robots/ags.rougedc.RougeDC_willow.jar
 ahf.Acero 1.0,http://robocode-archive.strangeautomata.com/robots/ahf.Acero_1.0.jar
-ahf.NanoAndrew .4,http://robocode-archiers.nano.Ligg.LiggMA_1.2ve.strangeautomata.com/robots/ahf.NanoAndrew_.4.jar#14!2023-10-27T15:00:08
+ahf.NanoAndrew .4,http://robocode-archiers.nano.Ligg.LiggMA_1.2ve.strangeautomata.com/robots/ahf.NanoAndrew_.4.jar#15!2023-10-28T04:00:02
 ahf.r2d2.R2d2 0.86,http://robocode-archive.strangeautomata.com/robots/ahf.r2d2.R2d2_0.86.jar
 ahr.ice.Ice 1.0,http://robocode-archive.strangeautomata.com/robots/ahr.ice.Ice_1.0.jar
 AIR.iRobot 1.0,http://robocode-archive.strangeautomata.com/robots/AIR.iRobot_1.0.jar
