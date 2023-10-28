@@ -338,7 +338,8 @@ ep.MyFirstRobot 1.0,https://www.dropbox.com/s/iy5h7yhvguiq9ac/ep.MyFirstRobot_1.
 erdnis.Rover 0.3,http://www.free-games-fun.com/erdnis.Rover_0.3.jar
 ers.micro.ISuck.ISuckMicro 0.1f,https://github.com/ersamson/robocode/raw/main/ers.micro.ISuck.ISuckMicro_0.1f.jar
 ers.nano.gokdeniz.Gokdeniz 1.1a,https://github.com/ersamson/robocode/raw/main/ers.nano.gokdeniz.Gokdeniz_1.1a.jar
-ers.nano.gokdeniz.Gokdeniz 1.1b,https://github.com/ersamson/robocode/raw/main/ers.nano.gokdeniz.Gokdeniz_1.1b.jar
+ers.nano.gokdeniz.Gokdeniz 1.1d,https://github.com/ersamson/robocode/raw/main/ers.nano.gokdeniz.Gokdeniz_1.1d.jar
+ers.nano.gokdeniz.Gokdeniz 1.1e,https://github.com/ersamson/robocode/raw/main/ers.nano.gokdeniz.Gokdeniz_1.1e.jar
 ers.nano.ISuck.ISuckNano 0.1d,https://github.com/ersamson/robocode/raw/main/ers.nano.ISuck.ISuckNano_0.1d.jar
 ers.nano.Lig.LigMA 1.6,https://github.com/ersamson/robocode/raw/main/ers.nano.Lig.LigMA_1.6.jar
 ers.nano.Meroka.Meroka 1.7,https://github.com/ersamson/robocode/raw/main/ers.nano.Meroka.Meroka_1.7.jar
