@@ -341,8 +341,8 @@ ers.nano.gokdeniz.Gokdeniz 1.2,https://github.com/ersamson/robocode/raw/main/ers
 ers.nano.iSuck.ISuckNano 1.0,https://github.com/ersamson/robocode/raw/main/ers.nano.iSuck.ISuckNano_1.0.jar
 ers.nano.lig.LigMA 1.7a,https://github.com/ersamson/robocode/raw/main/ers.nano.lig.LigMA_1.7a.jar
 ers.nano.meroka.Meroka 1.8a,https://github.com/ersamson/robocode/raw/main/ers.nano.meroka.Meroka_1.8a.jar
-ers.nano.sunderer.Sunderer 1.17,https://github.com/ersamson/robocode/raw/main/ers.nano.sunderer.Sunderer_1.17.jar
 ers.nano.sunderer.Sunderer 1.18,https://github.com/ersamson/robocode/raw/main/ers.nano.sunderer.Sunderer_1.18.jar
+ers.nano.sunderer.Sunderer 1.19,https://github.com/ersamson/robocode/raw/main/ers.nano.sunderer.Sunderer_1.19.jar
 eskimo.micro.Echo 0.1,http://robocode-archive.strangeautomata.com/robots/eskimo.micro.Echo_0.1.jar
 et.Predator 1.8,http://robocode-archive.strangeautomata.com/robots/et.Predator_1.8.jar
 ethdsy.Malacka 2.4,http://robocode-archive.strangeautomata.com/robots/ethdsy.Malacka_2.4.jar
