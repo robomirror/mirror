@@ -338,10 +338,11 @@ ep.MyFirstRobot 1.0,https://www.dropbox.com/s/iy5h7yhvguiq9ac/ep.MyFirstRobot_1.
 erdnis.Rover 0.3,http://www.free-games-fun.com/erdnis.Rover_0.3.jar
 ers.micro.ISuck.ISuckMicro 0.1f,https://github.com/ersamson/robocode/raw/main/ers.micro.ISuck.ISuckMicro_0.1f.jar
 ers.nano.gokdeniz.Gokdeniz 1.3e,https://github.com/ersamson/robocode/raw/main/ers.nano.gokdeniz.Gokdeniz_1.3e.jar
+ers.nano.hawk.HawkLA 1.1a,https://github.com/ersamson/robocode/raw/main/ers.nano.hawk.HawkLA_1.1a.jar
 ers.nano.iSuck.ISuckNano 1.0a,https://github.com/ersamson/robocode/raw/main/ers.nano.iSuck.ISuckNano_1.0a.jar
 ers.nano.lig.LigMA 1.8a,https://github.com/ersamson/robocode/raw/main/ers.nano.lig.LigMA_1.8a.jar
 ers.nano.meroka.Meroka 1.8a,https://github.com/ersamson/robocode/raw/main/ers.nano.meroka.Meroka_1.8a.jar
-ers.nano.sunderer.Sunderer 1.19b,https://github.com/ersamson/robocode/raw/main/ers.nano.sunderer.Sunderer_1.19b.jar
+ers.nano.sunderer.Sunderer 1.20,https://github.com/ersamson/robocode/raw/main/ers.nano.sunderer.Sunderer_1.20.jar
 eskimo.micro.Echo 0.1,http://robocode-archive.strangeautomata.com/robots/eskimo.micro.Echo_0.1.jar
 et.Predator 1.8,http://robocode-archive.strangeautomata.com/robots/et.Predator_1.8.jar
 ethdsy.Malacka 2.4,http://robocode-archive.strangeautomata.com/robots/ethdsy.Malacka_2.4.jar
