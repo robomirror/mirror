@@ -151,6 +151,7 @@ caimano.Furia_Ceca 0.22,http://robocode-archive.strangeautomata.com/robots/caima
 can.Pookie 1.1,http://robocode-archive.strangeautomata.com/robots/can.Pookie-1.1.jar
 casey.Flee 1.0,http://robocode-archive.strangeautomata.com/robots/casey.Flee_1.0.jar
 casey.Flump 1.0,https://www.sites.google.com/site/fatsandbox/robots/casey.Flump_1.0.jar
+catcat20.atom.Atom 0.1,https://drive.google.com/uc?export=download&id=1LCwxfhD-dlNXd7IeK8JnPo3D6SGDkOw9
 catcat20.helios.Helios 1.5,https://drive.google.com/uc?export=download&id=1NkcOxv45wVNPg-Wke31olDs8Xp35ayP7
 cb.Domogled 1.2,https://www.dropbox.com/s/eyjie273jblyx53/cb.Domogled_1.2.jar?dl=1
 cb.fire.Firestarter 2.0f,https://www.dropbox.com/s/96qhyuh648ufuju/cb.fire.Firestarter_2.0f.jar?dl=1
