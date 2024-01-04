@@ -153,7 +153,7 @@ casey.Flee 1.0,http://robocode-archive.strangeautomata.com/robots/casey.Flee_1.0
 casey.Flump 1.0,https://www.sites.google.com/site/fatsandbox/robots/casey.Flump_1.0.jar
 catcat20.atom.Atom 0.51,https://drive.google.com/uc?export=download&id=18AcM1v4v3O_lcPEhaSBrKq9T4_39K6gn
 catcat20.helios.Helios 1.5,https://drive.google.com/uc?export=download&id=1NkcOxv45wVNPg-Wke31olDs8Xp35ayP7
-catcat20.Lambda 0.001,https://drive.google.com/uc?export=download&id=1BcKW3-yjnybErNWGRFIBknnjsaofQq7r
+catcat20.Lambda 0.002,https://drive.google.com/uc?export=download&id=1Bj7gqqx4rfCMUXPhnHllIA4vI73Lwa6u
 cb.Domogled 1.2,https://www.dropbox.com/s/eyjie273jblyx53/cb.Domogled_1.2.jar?dl=1
 cb.fire.Firestarter 2.0f,https://www.dropbox.com/s/96qhyuh648ufuju/cb.fire.Firestarter_2.0f.jar?dl=1
 cb.mega.RandomBot 1.0,https://www.dropbox.com/s/pw1l3vatmr87ive/cb.mega.RandomBot_1.0.jar?dl=1
