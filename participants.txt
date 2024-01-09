@@ -532,7 +532,6 @@ kc.micro.Needle 0.101,http://robocode-archive.strangeautomata.com/robots/kc.micr
 kc.micro.rammer.MaxRisk 0.6,http://robocode-archive.strangeautomata.com/robots/kc.micro.rammer.MaxRisk_0.6.jar
 kc.micro.Thorn 1.252,http://robocode-archive.strangeautomata.com/robots/kc.micro.Thorn_1.252.jar
 kc.micro.WaveShark 0.4,https://drive.google.com/uc?export=download&id=1LG_XNd0dFFTHrqR96QvQxXt4a_UBOlVU
-kc.mini.Vyper 0.311,http://robocode-archive.strangeautomata.com/robots/kc.mini.Vyper_0.311.jar
 kc.nano.Splinter 1.2,http://robocode-archive.strangeautomata.com/robots/kc.nano.Splinter_1.2.jar
 kc.serpent.Hydra 0.21,http://robocode-archive.strangeautomata.com/robots/kc.serpent.Hydra_0.21.jar
 kc.serpent.WaveSerpent 2.11,http://robocode-archive.strangeautomata.com/robots/kc.serpent.WaveSerpent_2.11.jar
