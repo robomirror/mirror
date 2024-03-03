@@ -925,7 +925,7 @@ sgp.SleepingGoat 1.1,http://robocode-archive.strangeautomata.com/robots/sgp.Slee
 SHAM.WOW 1.4,http://robocode-archive.strangeautomata.com/robots/SHAM.WOW_1.4.jar
 sheldor.melee.nano.TestMelee 0.1,http://robocode-archive.strangeautomata.com/robots/sheldor.melee.nano.TestMelee_0.1.jar
 sheldor.micro.Epeeist 3.4.1,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.Epeeist_3.4.1.jar
-sheldor.micro.FoilistMicro 2.1,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.FoilistMicro_2.1.jar
+sheldor.micro.FoilistMicro 2.2,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.FoilistMicro_2.2.jar
 sheldor.nano.FoilistNano 3.0,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.nano.FoilistNano_3.0.jar
 sheldor.nano.PointInLine 1.0,http://robocode-archive.strangeautomata.com/robots/sheldor.nano.PointInLine_1.0.jar
 sheldor.nano.PointInLineRRAL 1.0.0,http://robocode-archive.strangeautomata.com/robots/sheldor.nano.PointInLineRRAL_1.0.0.jar
