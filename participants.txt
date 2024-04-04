@@ -156,6 +156,7 @@ catcat20.atom.Atom 0.51,https://drive.google.com/uc?export=download&id=18AcM1v4v
 catcat20.helios.Helios 1.5,https://drive.google.com/uc?export=download&id=1NkcOxv45wVNPg-Wke31olDs8Xp35ayP7
 catcat20.Lambda 0.017,https://drive.google.com/uc?export=download&id=1EO8nlb9ZaEJcetnaD22kWPHmVWsu-uBC
 catcat20.Rabbit 0.001,https://drive.google.com/uc?export=download&id=1Cz81GQX7u9qe0muFXWx4qm-lNOA0MXeE
+catcat20.shape.Theta 0.018,https://drive.google.com/uc?export=download&id=1EXcQ5PlX7m2alnvlISipPF2ywsWPMSA0
 cb.Domogled 1.2,https://www.dropbox.com/s/eyjie273jblyx53/cb.Domogled_1.2.jar?dl=1
 cb.fire.Firestarter 2.0f,https://www.dropbox.com/s/96qhyuh648ufuju/cb.fire.Firestarter_2.0f.jar?dl=1
 cb.mega.RandomBot 1.0,https://www.dropbox.com/s/pw1l3vatmr87ive/cb.mega.RandomBot_1.0.jar?dl=1
