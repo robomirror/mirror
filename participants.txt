@@ -28,7 +28,7 @@ ahf.NanoAndrew .4,http://robocode-archive.strangeautomata.com/robots/ahf.NanoAnd
 ahf.r2d2.R2d2 0.86,http://robocode-archive.strangeautomata.com/robots/ahf.r2d2.R2d2_0.86.jar
 ahr.ice.Ice 1.0,http://robocode-archive.strangeautomata.com/robots/ahr.ice.Ice_1.0.jar
 AIR.iRobot 1.0,http://robocode-archive.strangeautomata.com/robots/AIR.iRobot_1.0.jar
-ajs.Guessit 1.0,https://drive.google.com/uc?export=download&id=12NUAUvJYcCC84k64nVGgMoJdhkGe9Jm0
+ajs.Guessit 1.1,https://drive.google.com/uc?export=download&id=1tprp0U4Lbs1dYt-rCVeTWLAJLaxH6p3i
 ak.Fermat 2.0,http://robocode-archive.strangeautomata.com/robots/ak.Fermat_2.0.jar
 alex.Diabolo5 1.1,http://robocode-archive.strangeautomata.com/robots/alex.Diabolo5_1.1.jar
 alk.lap.LoudAndProud 2.23,http://robocode-archive.strangeautomata.com/robots/alk.lap.LoudAndProud_2.23.jar
