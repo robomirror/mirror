@@ -1163,6 +1163,7 @@ wiki.mini.GouldingiHT 1.0,http://robocode-archive.strangeautomata.com/robots/wik
 wiki.mini.Griffon 0.1,http://robocode-archive.strangeautomata.com/robots/wiki.mini.Griffon_0.1.jar
 wiki.mini.Sedan 1.0,http://robocode-archive.strangeautomata.com/robots/wiki.mini.Sedan_1.0.jar
 wiki.nano.DevilFISH 1.0,http://robocode-archive.strangeautomata.com/robots/wiki.nano.DevilFISH_1.0.jar
+wiki.nano.Flick 1.0,https://github.com/sheldor-robocode/jar-files/raw/refs/heads/main/wiki.nano.Flick_1.0.jar
 wiki.nano.RaikoNano 1.1,http://robocode-archive.strangeautomata.com/robots/wiki.nano.RaikoNano_1.1.jar
 wiki.SuperSampleBot.SuperSittingDuck 1.0,http://robocode-archive.strangeautomata.com/robots/wiki.SuperSampleBot.SuperSittingDuck_1.0.jar
 wiki.WaveRammer 1.0,http://robocode-archive.strangeautomata.com/robots/wiki.WaveRammer_1.0.jar
