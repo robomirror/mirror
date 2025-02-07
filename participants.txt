@@ -1149,6 +1149,8 @@ wcsv.PowerHouse.PowerHouse 1.7e3,http://robocode-archive.strangeautomata.com/rob
 wcsv.Stampede 1.3.3,http://robocode-archive.strangeautomata.com/robots/wcsv.Stampede_1.3.3.jar
 wcsv.Stampede2.Stampede2 1.1.0,http://robocode-archive.strangeautomata.com/robots/wcsv.Stampede2.Stampede2_1.1.0.jar
 WdV.Lesserbee 0.01,http://robocode-archive.strangeautomata.com/robots/WdV.Lesserbee_0.01.jar
+Welt.ClankBang 1.0,https://wx.mail.qq.com/ftn/download?func=4&key=c9cc5c3448cb9ad5fbbf193464323365fc38373466323365131c4f405150505c54041a5251020648540253504b070304041e0f5152000252525256055f02216561565b4048715f045858755508551d0f574123b32ffed3e8423ba1728b18e64a922faa961f714c6536333734663233&code=6374f23e
+Welt.Firefly 1.0,https://wx.mail.qq.com/ftn/download?func=4&key=9a9b0a371ec09fd3a8e84d3732393663976d633730393663404b1b430101060100064e52060f544e525306551d0d065552495701070c0e0754515104510d266332010f431e7f5f1100020f4e1e535711718d3a1eeb4b7d8581896d2938a2edbb3ea4928d3d3936636564633730&code=edc7096c
 whind.Constitution 0.7.1,http://robocode-archive.strangeautomata.com/robots/whind.Constitution_0.7.1.jar
 whind.Strength 0.6.4,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/whind.Strength_0.6.4.jar
 whind.StrengthBee 0.6.4,http://whindgames.50webs.com/otherstuff/whind.StrengthBee_0.6.4.jar
