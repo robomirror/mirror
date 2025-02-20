@@ -930,7 +930,7 @@ SHAM.WOW 1.4,http://robocode-archive.strangeautomata.com/robots/SHAM.WOW_1.4.jar
 sheldor.melee.nano.TestMelee 0.1,http://robocode-archive.strangeautomata.com/robots/sheldor.melee.nano.TestMelee_0.1.jar
 sheldor.micro.Epeeist 3.7,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.Epeeist_3.7.jar
 sheldor.micro.FoilistMicro 2.2,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.FoilistMicro_2.2.jar
-sheldor.mini.Foilist 1.1,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.mini.Foilist_1.1.jar
+sheldor.mini.Foilist 1.2,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.mini.Foilist_1.2.jar
 sheldor.nano.Feint 1.2.1,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.nano.Feint_1.2.1.jar
 sheldor.nano.FoilistNano 3.2,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.nano.FoilistNano_3.2.jar
 sheldor.nano.PointInLine 1.0,http://robocode-archive.strangeautomata.com/robots/sheldor.nano.PointInLine_1.0.jar
