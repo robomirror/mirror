@@ -451,7 +451,7 @@ jaara.LambdaBot 1.1,http://robocode-archive.strangeautomata.com/robots/jaara.Lam
 jab.avk.ManuelGallegus 0.6,http://robocode-archive.strangeautomata.com/robots/jab.avk.ManuelGallegus_0.6.jar
 jab.DiamondStealer 5,http://robocode-archive.strangeautomata.com/robots/jab.DiamondStealers_5.jar
 jab.micro.Sanguijuela 0.8,http://robocode-archive.strangeautomata.com/robots/jab.micro.Sanguijuela_0.8.jar
-jaemcrb.mega.M1Abrams 1.5,https://github.com/jaestradam/Robocode/raw/main/robots/jaemcrb.mega.M1Abrams_1.5.jar#69!2025-09-14T15:00:03
+jaemcrb.mega.M1Abrams 1.5,https://github.com/jaestradam/Robocode/raw/main/robots/jaemcrb.mega.M1Abrams_1.5.jar#70!2025-09-17T11:00:04
 jaemcrb.nano.M1Abrams 1.0,https://www.dropbox.com/s/7v52p4nmklid14p/jaemcrb.nano.M1Abrams_1.0.jar?dl=1
 jam.micro.RaikoMicro 1.44,http://robocode-archive.strangeautomata.com/robots/jam.micro.RaikoMicro_1.44.jar
 jam.mini.Raiko 0.43,http://robocode-archive.strangeautomata.com/robots/jam.mini.Raiko_0.43.jar
