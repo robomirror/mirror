@@ -221,6 +221,7 @@ cyragia.Bot 1.1,http://robocode-archive.strangeautomata.com/robots/cyragia.Bot_1
 da.NewBGank 1.4,http://robocode-archive.strangeautomata.com/robots/da.NewBGank_1.4.jar
 daemons.DizzyA 1.0,http://robocode-archive.strangeautomata.com/robots/daemons.DizzyA_1.0.jar
 dam.MogBot 2.9,http://robocode-archive.strangeautomata.com/robots/dam.MogBot_2.9.jar
+damij.mega.Boque aaah,http://drive.google.com/uc?export=download&id=1iup_cV0ALBUUqSyTULOEZTUxb_iCAakH
 dans.Cinnamon 1.2,http://robocode-archive.strangeautomata.com/robots/dans.Cinnamon_1.2.jar
 darkcanuck.Gaff 1.50,http://robocode-archive.strangeautomata.com/robots/darkcanuck.Gaff_1.50.jar
 darkcanuck.Holden 1.13a,http://robocode-archive.strangeautomata.com/robots/darkcanuck.Holden_1.13a.jar
