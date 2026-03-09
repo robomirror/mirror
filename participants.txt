@@ -249,7 +249,7 @@ deo.CloudBot 1.3,http://robocode-archive.strangeautomata.com/robots/deo.CloudBot
 deo.FlowerBot 1.0,http://robocode-archive.strangeautomata.com/robots/deo.FlowerBot_1.0.jar
 deo.virtual.RainbowBot 1.0,http://robocode-archive.strangeautomata.com/robots/deo.virtual.RainbowBot_1.0.jar
 dft.Calliope 5.6,http://robocode-archive.strangeautomata.com/robots/dft.Calliope_5.6.jar
-dft.Cardigan 1.08,https://drive.google.com/uc?export=download&id=1NLX9zW3vltD03TlIwnAdAqOotEilhtXM
+dft.Cardigan 1.09,https://drive.google.com/uc?export=download&id=1wrJcmFQHai3G0DXK19v5IQOJwMbhmdbt
 dft.Cyanide 1.90,http://robocode-archive.strangeautomata.com/robots/dft.Cyanide_1.90.jar
 dft.Cyprus 3.0,http://robocode-archive.strangeautomata.com/robots/dft.Cyprus_3.0.jar
 dft.Freddie 1.32,http://robocode-archive.strangeautomata.com/robots/dft.Freddie_1.32.jar
