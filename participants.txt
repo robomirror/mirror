@@ -930,6 +930,7 @@ sgp.ShiningBeetle 1.1,http://robocode-archive.strangeautomata.com/robots/sgp.Shi
 sgp.SleepingGoat 1.1,http://robocode-archive.strangeautomata.com/robots/sgp.SleepingGoat_1.1.jar
 SHAM.WOW 1.4,http://robocode-archive.strangeautomata.com/robots/SHAM.WOW_1.4.jar
 sheldor.melee.nano.TestMelee 0.1,http://robocode-archive.strangeautomata.com/robots/sheldor.melee.nano.TestMelee_0.1.jar
+sheldor.micro.Continuation 1.0,https://github.com/sheldor-robocode/jar-files/raw/refs/heads/main/sheldor.micro.Continuation_1.0.jar
 sheldor.micro.Epeeist 3.7,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.Epeeist_3.7.jar
 sheldor.micro.EpeeistDC 3.0,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.EpeeistDC_3.0.jar
 sheldor.micro.PointInLineRRAL 1.0,https://github.com/sheldor-robocode/jar-files/raw/main/sheldor.micro.PointInLineRRAL_1.0.jar
