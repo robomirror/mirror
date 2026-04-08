@@ -411,7 +411,7 @@ gh.GresSuffurd 0.4.13,https://drive.google.com/uc?export=download&id=1_479CwVjgz
 gh.GrubbmGrb 1.2.4,http://robocode-archive.strangeautomata.com/robots/gh.GrubbmGrb_1.2.4.jar
 gh.GrypRepetyf 0.13,http://robocode-archive.strangeautomata.com/robots/gh.GrypRepetyf_0.13.jar
 gh.micro.Grinnik 1.0,https://drive.google.com/uc?export=download&id=1Lq4u5EKdWT6vP_pcBR62BoKC8nddWFp0
-gh.micro.GrubbmThree 0.9z,https://drive.google.com/uc?export=download&id=1NnbpisYuhYPIY3oofESnNjCee8QGMfZk
+gh.micro.GrubbmThree 1.0,https://drive.google.com/uc?export=download&id=1iGPfqH8AeG7RvnhqJuf-BF-HGOXNwu1u
 gh.mini.Grimmig 0.3.6,https://drive.google.com/uc?export=download&id=1art6CG96duj1oW5KLnqDyP2G_OUQQA5M
 gh.nano.Grofvuil 0.2,http://robocode-archive.strangeautomata.com/robots/gh.nano.Grofvuil_0.2.jar
 ghent.ArthurPanzergon 1.0.0,http://franck.jousseaume.free.fr/robocode/ArthurPanzergon_1.0.0.jar
