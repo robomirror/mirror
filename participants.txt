@@ -734,7 +734,7 @@ oa.weak.FlyMk1 0.1,http://robocode-archive.strangeautomata.com/robots/oa.weak.Fl
 ola.Puffin 1.0,http://robocode-archive.strangeautomata.com/robots/ola.Puffin_1.0.jar
 omens.CannonfodderMicro 1.4,https://dl.dropbox.com/s/ye675r93lpgpuei/omens.CannonfodderMicro_1.4.jar
 omens.CannonfodderNano 1.4,https://dl.dropbox.com/s/u94wp86uo34feue/omens.CannonfodderNano_1.4.jar
-oog.mega.saguaro.Saguaro 0.1,https://github.com/oogilbert/Saguaro/raw/main/oog.mega.saguaro.Saguaro_0.1.jar
+oog.mega.saguaro.Saguaro 1.0,https://github.com/oogilbert/Saguaro/raw/main/release/oog.mega.saguaro.Saguaro_1.0.jar
 oog.melee.Capulet 1.2,https://sites.google.com/site/crazybassoon/oog.melee.Capulet_1.2.jar
 oog.melee.Mercutio 1.0,http://robocode-archive.strangeautomata.com/robots/oog.melee.Mercutio_1.0.jar
 oog.micro.Claudius 1.11,https://drive.google.com/uc?export=download&id=1qS6Sfy5xDgqKSDV6CbCxQfMdFhekfm9A
