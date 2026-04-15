@@ -314,7 +314,7 @@ dz.GalbaMini 0.121,http://robocode-archive.strangeautomata.com/robots/dz.GalbaMi
 dz.MostlyHarmlessNano 2.1,http://robocode-archive.strangeautomata.com/robots/dz.MostlyHarmlessNano_2.1.jar
 dz.OthoMicro 0.12,http://robocode-archive.strangeautomata.com/robots/dz.OthoMicro_0.12.jar
 dz.OthoMini 0.15,http://robocode-archive.strangeautomata.com/robots/dz.OthoMini_0.15.jar
-e32.Omni 0.04,https://www.dropbox.com/s/zs2vyufyh2el5zb/e32.Omni_0.04.jar?dl=1
+e32.Omni 0.05,https://www.dropbox.com/scl/fi/bb04hiswb8kkims1cwjjl/e32.Omni_0.05.jar?rlkey=fz4ft4i5clkxqcuewil417toi&dl=1
 eat.HumblePieLite 1.0,http://robocode-archive.strangeautomata.com/robots/eat.HumblePieLite_1.0.jar
 EBBU.Sim2 1.02,http://robocode-archive.strangeautomata.com/robots/EBBU.Sim2_1.02.jar
 ebo.Sparse 0.02,http://www.4geeks.de/files/ebo.Sparse_0.02.jar
