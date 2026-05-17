@@ -492,7 +492,7 @@ jgap.JGAP6139 1.0,http://robocode-archive.strangeautomata.com/robots/jgap.JGAP61
 jgap.JGAP7247_2 1.0,http://robocode-archive.strangeautomata.com/robots/jgap.JGAP7247_2_1.0.jar
 jgap.JGAP7958 1.0,http://robocode-archive.strangeautomata.com/robots/jgap.JGAP7958_1.0.jar
 jje.BagPuss 1.2,http://robocode-archive.strangeautomata.com/robots/jje.BagPuss_1.2.jar
-jk.mega.DrussGT 3.1.8c,https://www.dropbox.com/scl/fi/5u5nrfwouvgdftzyahtde/jk.mega.DrussGT_3.1.8c.jar?rlkey=08h6mkwkkejnzda8nlelgq117&st=c37sm99b&dl=1
+jk.mega.DrussGT 3.3.1,https://www.dropbox.com/scl/fi/d7w0hbgpqdng2usec23au/jk.mega.DrussGT_3.3.1.jar?rlkey=v484r81j28uazn9v6nqvm0i7f&st=xje9uy8j&dl=1
 jk.melee.Neuromancer 7.12,https://www.dropbox.com/s/ctjzl08u2f3x3r0/jk.melee.Neuromancer_7.12.jar?dl=1
 jk.micro.Cotillion 0.8,https://www.dropbox.com/s/uqk265mlrsf0ogx/jk.micro.Cotillion_0.8.jar?dl=1
 jk.mini.CunobelinDC 1.2,https://www.dropbox.com/s/64apbg0rpztvtly/jk.mini.CunobelinDC_1.2.jar?dl=1
