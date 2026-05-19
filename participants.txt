@@ -347,7 +347,6 @@ erdnis.Rover 0.3,http://robocode-archive.strangeautomata.com/robots/erdnis.Rover
 ers.micro.ISuck.ISuckMicro 0.1f,https://github.com/ersamson/robocode/raw/main/ers.micro.ISuck.ISuckMicro_0.1f.jar
 ers.micro.speusippus.Speusippus 0.3,https://github.com/ersamson/robocode/raw/main/ers.micro.speusippus.Speusippus_0.3.jar
 ers.nano.gokdeniz.Gokdeniz 1.5b,https://github.com/ersamson/robocode/raw/main/ers.nano.gokdeniz.Gokdeniz_1.5b.jar
-ers.nano.hawk.HawkLA 3.1,https://github.com/ersamson/robocode/raw/main/ers.nano.hawk.HawkLA_3.1.jar
 ers.nano.iSuck.ISuckNano 1.0a,https://github.com/ersamson/robocode/raw/main/ers.nano.iSuck.ISuckNano_1.0a.jar
 ers.nano.lig.LigMA 1.8a,https://github.com/ersamson/robocode/raw/main/ers.nano.lig.LigMA_1.8a.jar
 ers.nano.meroka.Meroka 1.8a,https://github.com/ersamson/robocode/raw/main/ers.nano.meroka.Meroka_1.8a.jar
