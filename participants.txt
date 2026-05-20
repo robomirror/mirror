@@ -350,7 +350,7 @@ ers.nano.gokdeniz.Gokdeniz 1.5b,https://github.com/ersamson/robocode/raw/main/er
 ers.nano.iSuck.ISuckNano 1.0a,https://github.com/ersamson/robocode/raw/main/ers.nano.iSuck.ISuckNano_1.0a.jar
 ers.nano.lig.LigMA 1.8a,https://github.com/ersamson/robocode/raw/main/ers.nano.lig.LigMA_1.8a.jar
 ers.nano.meroka.Meroka 1.8a,https://github.com/ersamson/robocode/raw/main/ers.nano.meroka.Meroka_1.8a.jar
-ers.nano.nekolh.Nekolh 1.4b,https://github.com/ersamson/robocode/raw/main/ers.nano.nekolh.Nekolh_1.4b.jar
+ers.nano.nekolh.Nekolh 1.4c,https://github.com/ersamson/robocode/raw/main/ers.nano.nekolh.Nekolh_1.4c.jar
 ers.nano.sunderer.Sunderer 1.23a,https://github.com/ersamson/robocode/raw/main/ers.nano.sunderer.Sunderer_1.23a.jar
 eskimo.micro.Echo 0.1,http://robocode-archive.strangeautomata.com/robots/eskimo.micro.Echo_0.1.jar
 et.Predator 1.8,http://robocode-archive.strangeautomata.com/robots/et.Predator_1.8.jar
@@ -780,7 +780,7 @@ pez.mako.Mako 1.5,http://robocode-archive.strangeautomata.com/robots/pez.mako.Ma
 pez.micro.Aristocles 0.3.7,http://robocode-archive.strangeautomata.com/robots/pez.micro.Aristocles_0.3.7.jar
 pez.mini.ChironexFleckeri 0.5,http://robocode-archive.strangeautomata.com/robots/pez.mini.ChironexFleckeri_0.5.jar
 pez.mini.Gouldingi 1.5,http://robocode-archive.strangeautomata.com/robots/pez.mini.Gouldingi_1.5.jar
-pez.mini.Pugilist 2.5.6,https://pugilists.netlify.app/pez.mini.Pugilist_2.5.6.jar
+pez.mini.Pugilist 2.5.7,https://pugilists.netlify.app/pez.mini.Pugilist_2.5.7.jar
 pez.mini.Tityus 0.9.1,http://robocode-archive.strangeautomata.com/robots/pez.mini.Tityus_0.9.1.jar
 pez.mini.VertiLeach 0.4.0,http://robocode-archive.strangeautomata.com/robots/pez.mini.VertiLeach_0.4.0.jar
 pez.nano.Icarus 0.3,http://robocode-archive.strangeautomata.com/robots/pez.nano.Icarus_0.3.jar
