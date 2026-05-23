@@ -777,7 +777,7 @@ pez.clean.Swiffer 0.2.9,http://robocode-archive.strangeautomata.com/robots/pez.c
 pez.frankie.Frankie 0.9.6.1,http://robocode-archive.strangeautomata.com/robots/pez.frankie.Frankie_0.9.6.1.jar
 pez.gloom.GloomyDark 0.9.2,http://robocode-archive.strangeautomata.com/robots/pez.gloom.GloomyDark_0.9.2.jar
 pez.mako.Mako 1.5,http://robocode-archive.strangeautomata.com/robots/pez.mako.Mako_1.5.jar
-pez.micro.Aristocles 0.3.7,http://robocode-archive.strangeautomata.com/robots/pez.micro.Aristocles_0.3.7.jar
+pez.micro.Aristocles 0.3.8,https://pugilists.netlify.app/pez.micro.Aristocles_0.3.8.jar
 pez.mini.ChironexFleckeri 0.5,http://robocode-archive.strangeautomata.com/robots/pez.mini.ChironexFleckeri_0.5.jar
 pez.mini.Gouldingi 1.5,http://robocode-archive.strangeautomata.com/robots/pez.mini.Gouldingi_1.5.jar
 pez.mini.Pugilist 2.5.7,https://pugilists.netlify.app/pez.mini.Pugilist_2.5.7.jar
