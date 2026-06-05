@@ -496,7 +496,7 @@ jk.melee.Neuromancer 7.12,https://www.dropbox.com/s/ctjzl08u2f3x3r0/jk.melee.Neu
 jk.micro.Cotillion 0.8,https://www.dropbox.com/s/uqk265mlrsf0ogx/jk.micro.Cotillion_0.8.jar?dl=1
 jk.mini.CunobelinDC 1.2,https://www.dropbox.com/s/64apbg0rpztvtly/jk.mini.CunobelinDC_1.2.jar?dl=1
 jk.nano.Machete 2.0,https://www.dropbox.com/s/8wdbhfnui4519rr/jk.nano.Machete_2.0.jar?dl=1
-jk.precise.EnergyDome 1.7,https://www.dropbox.com/scl/fi/251mvgnf6di1ulzd6jgjf/jk.precise.EnergyDome_1.7.jar?rlkey=9b4k40tvj1zfls556u7nenbjp&st=7e6bn830&dl=1
+jk.precise.EnergyDome 1.8,https://www.dropbox.com/scl/fi/n7joug6kxyei3lknk0a2w/jk.precise.EnergyDome_1.8.jar?rlkey=edv6c3kjorjd9g524gqoady3e&st=350oc71m&dl=1
 jk.precise.Wintermute 0.8,https://www.dropbox.com/s/i6p19p6yqdg69hm/jk.precise.Wintermute_0.8.jar?dl=1
 jk.sheldor.nano.Yatagan 1.2.3,https://www.dropbox.com/s/wdcugfsjn0g2cmp/jk.sheldor.nano.Yatagan_1.2.3.jar?dl=1
 jmcd.BeoWulf 2.8,http://robocode-archive.strangeautomata.com/robots/jmcd.BeoWulf_2.8.jar
