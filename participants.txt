@@ -1197,6 +1197,8 @@ yk.JahRoslav 1.1,http://robocode-archive.strangeautomata.com/robots/yk.JahRoslav
 zch.David 0.21,http://robocode-archive.strangeautomata.com/robots/zch.David_0.21.jar
 zch.Hirkan 0.11,http://robocode-archive.strangeautomata.com/robots/zch.Hirkan_0.11.jar
 zen.Lindada 0.2,http://robocode-archive.strangeautomata.com/robots/zen.Lindada_0.2.jar
+zen.Mirage 0.9.1,https://github.com/erning/mechgarden/releases/download/robots-2026-06-24/zen.Mirage_0.9.1.jar
+zen.Ronin 1.0.0,https://github.com/erning/mechgarden/releases/download/robots-2026-06-24/zen.Ronin_1.0.0.jar
 zeze2.OperatorZeze 1.05,http://robocode-archive.strangeautomata.com/robots/zeze2.OperatorZeze_1.05.jar
 zezinho.QuerMePegarKKKK 1.0,http://robocode-archive.strangeautomata.com/robots/zezinho.QuerMePegarKKKK_1.0.jar
 zh.UnderDog 0.0.2,http://robocode-archive.strangeautomata.com/robots/zh.UnderDog_0.0.2.jar
