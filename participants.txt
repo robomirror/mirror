@@ -764,6 +764,7 @@ patson.PatsonTestBot 1.0,http://robocode-archive.strangeautomata.com/robots/pats
 paulk.PaulV3 1.7,http://robocode-archive.strangeautomata.com/robots/paulk.PaulV3_1.7.jar
 pb.Oscillator 1.0,http://robocode-archive.strangeautomata.com/robots/pb.Oscillator_1.0.jar
 pbg.NinjaX 1.2,https://github.com/realr2d2/Bots/blob/gh-pages/pbg.NinjaX_1.2.jar?raw=true
+pc.Wavelet 1.0,https://github.com/x1kong-ops/robocode-rumble/releases/download/v1.0/pc.Wavelet_1.0.jar
 pe.mini.SandboxMini 1.2,http://robocode-archive.strangeautomata.com/robots/pe.mini.SandboxMini_1.2.jar
 pe.minimelee.SandboxMiniMelee 1.1,http://robocode-archive.strangeautomata.com/robots/pe.minimelee.SandboxMiniMelee_1.1.jar
 pe.SandboxDT 3.02,http://robocode-archive.strangeautomata.com/robots/pe.SandboxDT_3.02.jar
