@@ -431,7 +431,7 @@ gwah.GerryBotMkII 1.5.1,http://robocode-archive.strangeautomata.com/robots/gwah.
 ha2.T2 0.2,http://robocode-archive.strangeautomata.com/robots/ha2.T2_0.2.jar
 ha2.T2b 0.2b,http://robocode-archive.strangeautomata.com/robots/ha2.T2b_0.2b.jar
 ha2.T3 0.2,http://robocode-archive.strangeautomata.com/robots/ha2.T3_0.2.jar
-hadur2.Hadur 2.1,https://drive.google.com/uc?export=download&id=1fMMzFz0I5ibMCiKj-ehlBhUBeLjqpac3
+hadur2.Hadur 2.2,https://drive.google.com/uc?export=download&id=1Ws7gHc5ZTAuzsWHt969rPavhWBEjJ3zV
 hamilton.Hamilton 1.0,http://robocode-archive.strangeautomata.com/robots/hamilton.Hamilton_1.0.jar
 hapiel.Spiral 0.1,http://robocode-archive.strangeautomata.com/robots/hapiel.Spiral_0.1.jar
 Heal.TekitokaBot 1.0,http://robocode-archive.strangeautomata.com/robots/Heal.TekitokaBot_1.0.jar
