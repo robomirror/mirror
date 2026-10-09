@@ -195,6 +195,7 @@ cre.Karolos 0.32,http://robocode-archive.strangeautomata.com/robots/cre.Karolos_
 cs.Nene 1.1.0,https://file.csdgn.org/robocode/cs.Nene_1.1.0.jar
 cs.PumpkinPie 1.0,http://robocode-archive.strangeautomata.com/robots/cs.PumpkinPie_1.0.jar
 cs.s2.Seraphim 2.4.0,http://file.csdgn.org/robocode/cs.s2.Seraphim_2.4.0.jar
+cs.s2.Succubus 1.0,http://file.csdgn.org/robocode/cs.s2.Succubus_1.0.jar
 cs.Wren 1.0,http://robocode-archive.strangeautomata.com/robots/cs.Wren_1.0.jar
 csm.NthGeneration 0.04,http://robocode-archive.strangeautomata.com/robots/csm.NthGeneration_0.04.jar
 csp.Eagle 3.30,http://robocode-archive.strangeautomata.com/robots/csp.Eagle_3.30.jar
