@@ -220,6 +220,7 @@ cx.mini.Nimrod 0.55,http://robocode-archive.strangeautomata.com/robots/cx.mini.N
 cx.nano.Smog 2.6,http://robocode-archive.strangeautomata.com/robots/cx.nano.Smog_2.6.jar
 cx.Princess 1.0,http://robocode-archive.strangeautomata.com/robots/cx.Princess_1.0.jar
 cyragia.Bot 1.1,http://robocode-archive.strangeautomata.com/robots/cyragia.Bot_1.1.jar
+cz.libors.Ogi v1,https://drive.google.com/uc?export=download&id=17xaq8BxJzZZ95SUHebHKAbM_hwnn702F
 da.NewBGank 1.4,http://robocode-archive.strangeautomata.com/robots/da.NewBGank_1.4.jar
 daemons.DizzyA 1.0,http://robocode-archive.strangeautomata.com/robots/daemons.DizzyA_1.0.jar
 dam.MogBot 2.9,http://robocode-archive.strangeautomata.com/robots/dam.MogBot_2.9.jar
