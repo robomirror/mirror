@@ -504,6 +504,7 @@ jk.nano.Machete 2.0,https://www.dropbox.com/s/8wdbhfnui4519rr/jk.nano.Machete_2.
 jk.precise.EnergyDome 1.8,https://www.dropbox.com/scl/fi/n7joug6kxyei3lknk0a2w/jk.precise.EnergyDome_1.8.jar?rlkey=edv6c3kjorjd9g524gqoady3e&st=350oc71m&dl=1
 jk.precise.Wintermute 0.8,https://www.dropbox.com/s/i6p19p6yqdg69hm/jk.precise.Wintermute_0.8.jar?dl=1
 jk.sheldor.nano.Yatagan 1.2.3,https://www.dropbox.com/s/wdcugfsjn0g2cmp/jk.sheldor.nano.Yatagan_1.2.3.jar?dl=1
+jkong.JKHydra 1.4,https://github.com/x1kong-ops/jkhydra-rumble/releases/download/v1.4/jkong.JKHydra_1.4.jar
 jmcd.BeoWulf 2.8,http://robocode-archive.strangeautomata.com/robots/jmcd.BeoWulf_2.8.jar
 joe.ADinosaur 1.0,http://robocode-archive.strangeautomata.com/robots/joe.ADinosaur_1.0.jar
 josago.Jorgito 0.16,http://robocode-archive.strangeautomata.com/robots/josago.Jorgito_0.16.jar
