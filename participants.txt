@@ -434,7 +434,7 @@ gwah.GerryBotMkII 1.5.1,http://robocode-archive.strangeautomata.com/robots/gwah.
 ha2.T2 0.2,http://robocode-archive.strangeautomata.com/robots/ha2.T2_0.2.jar
 ha2.T2b 0.2b,http://robocode-archive.strangeautomata.com/robots/ha2.T2b_0.2b.jar
 ha2.T3 0.2,http://robocode-archive.strangeautomata.com/robots/ha2.T3_0.2.jar
-hadur117.Hadur 3.19,https://github.com/lgriffin/Hadur_Robot/releases/download/v3.19/hadur117.Hadur_3.19.jar
+hadur117.Hadur 3.20,https://github.com/lgriffin/Hadur_Robot/releases/download/v3.20/hadur117.Hadur_3.20.jar
 hadur117.micro.Eveimear 0.1,https://github.com/lgriffin/Hadur_Robot/releases/download/eveimear-v0.1/hadur117.micro.Eveimear_0.1.jar
 hadur117.mini.JayLexi 0.2,https://github.com/lgriffin/Hadur_Robot/releases/download/jaylexi-v0.2/hadur117.mini.JayLexi_0.2.jar
 hamilton.Hamilton 1.0,http://robocode-archive.strangeautomata.com/robots/hamilton.Hamilton_1.0.jar
