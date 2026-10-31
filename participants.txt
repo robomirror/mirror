@@ -178,7 +178,7 @@ cjm.chalk.Chalk 2.6.Be,http://scatterbright.com/robots/cjm.chalk.Chalk_2.6.Be.ja
 cjm.Charo 1.1,http://scatterbright.com/robots/cjm.Charo_1.1.jar
 cjm.Che 1.2,http://robocode-archive.strangeautomata.com/robots/cjm.Che_1.2.jar
 cjm.Chomsky 1.5,http://scatterbright.com/robots/cjm.Chomsky_1.5.jar
-claude.Umbra 0.5.jar,http://robocode-archive.strangeautomata.com/robots/claude.Umbra_0.5.jar#1!2026-10-31T19:00:03
+claude.Umbra 0.5,http://file.csdgn.org/robocode/claude.Umbra_0.5.jar
 cli.Dancer 1.1,http://robocode-archive.strangeautomata.com/robots/cli.Dancer_1.1.jar
 cli.WasteOfAmmo 1.0,http://robocode-archive.strangeautomata.com/robots/cli.WasteOfAmmo_1.0.jar
 codemojo.nano.Woot 1.0,http://robocode-archive.strangeautomata.com/robots/codemojo.nano.Woot_1.0.jar
