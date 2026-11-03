@@ -14,7 +14,6 @@ ad.Quest 0.10,http://robocode-archive.strangeautomata.com/robots/ad.Quest_0.10.j
 adt.Ar1 2.1,http://robocode-archive.strangeautomata.com/robots/adt.Ar1_2.1.jar
 adt.Ar2 1.0,http://robocode-archive.strangeautomata.com/robots/adt.Ar2_1.0.jar
 aetos.AetosFirstBot 1.0,http://robocode-archive.strangeautomata.com/robots/aetos.AetosFirstBot_1.0.jar
-ag.Gir 0.99,http://robocode-archive.strangeautomata.com/robots/ag.Gir_0.99.jar
 agd.Mooserwirt2 2.7,http://robocode-archive.strangeautomata.com/robots/agd.Mooserwirt2_2.7.jar
 agrach.Dalek 1.0,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/agrach.Dalek_1.0.jar
 agrach.MicroDalek 1.0,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/agrach.MicroDalek_1.0.jar
@@ -63,9 +62,7 @@ apv.LauLectrik 1.2,http://robocode-archive.strangeautomata.com/robots/apv.LauLec
 apv.MicroAspid 1.8,http://robocode-archive.strangeautomata.com/robots/apv.MicroAspid_1.8.jar
 apv.NanoLauLectrik 1.0,http://robocode-archive.strangeautomata.com/robots/apv.NanoLauLectrik_1.0.jar
 apv.NanoLauLectrikTheCannibal 1.1,http://robocode-archive.strangeautomata.com/robots/apv.NanoLauLectrikTheCannibal_1.1.jar
-apv.ScruchiPu 1.0,http://robocode-archive.strangeautomata.com/robots/apv.ScruchiPu_1.0.jar
 apv.test.Virus 0.6.1,http://robocode-archive.strangeautomata.com/robots/apv.test.Virus_0.6.1.jar
-apv.TheBrainPi 0.5fix,http://robocode-archive.strangeautomata.com/robots/apv.TheBrainPi_0.5fix.jar
 ar.horizon.Horizon 1.2.2,http://robocode-archive.strangeautomata.com/robots/ar.horizon.Horizon_1.2.2.jar
 ar.QuantumChromodynamics 1.2.1,http://robocode-archive.strangeautomata.com/robots/ar.QuantumChromodynamics_1.2.1.jar
 ar.TheoryOfEverything 1.2.1,http://robocode-archive.strangeautomata.com/robots/ar.TheoryOfEverything_1.2.1.jar
@@ -157,9 +154,7 @@ casey.Flee 1.0,http://robocode-archive.strangeautomata.com/robots/casey.Flee_1.0
 casey.Flump 1.0,http://robocode-archive.strangeautomata.com/robots/casey.Flump_1.0.jar
 catcat20.atom.Atom 0.51,https://drive.google.com/uc?export=download&id=18AcM1v4v3O_lcPEhaSBrKq9T4_39K6gn
 catcat20.helios.Helios 1.5,https://drive.google.com/uc?export=download&id=1NkcOxv45wVNPg-Wke31olDs8Xp35ayP7
-catcat20.Lambda 0.017,https://drive.google.com/uc?export=download&id=1EO8nlb9ZaEJcetnaD22kWPHmVWsu-uBC
 catcat20.Rabbit 0.001,https://drive.google.com/uc?export=download&id=1Cz81GQX7u9qe0muFXWx4qm-lNOA0MXeE
-catcat20.shape.Theta 0.018,https://drive.google.com/uc?export=download&id=1EXcQ5PlX7m2alnvlISipPF2ywsWPMSA0
 cb.Domogled 1.2,https://www.dropbox.com/s/eyjie273jblyx53/cb.Domogled_1.2.jar?dl=1
 cb.fire.Firestarter 2.0f,https://www.dropbox.com/s/96qhyuh648ufuju/cb.fire.Firestarter_2.0f.jar?dl=1
 cb.mega.RandomBot 1.0,https://www.dropbox.com/s/pw1l3vatmr87ive/cb.mega.RandomBot_1.0.jar?dl=1
@@ -250,7 +245,6 @@ demetrix.nano.SledgeHammer 0.22,http://robocode-archive.strangeautomata.com/robo
 deo.CloudBot 1.3,http://robocode-archive.strangeautomata.com/robots/deo.CloudBot_1.3.jar
 deo.FlowerBot 1.0,http://robocode-archive.strangeautomata.com/robots/deo.FlowerBot_1.0.jar
 deo.virtual.RainbowBot 1.0,http://robocode-archive.strangeautomata.com/robots/deo.virtual.RainbowBot_1.0.jar
-dev.kurtw.KurtBot 0.2,https://drive.google.com/uc?export=download&id=19gNnkRHBrqA4QiGGUgRqNzmvs2aWzP7A
 dft.Calliope 5.6,http://robocode-archive.strangeautomata.com/robots/dft.Calliope_5.6.jar
 dft.Cardigan 1.09,https://drive.google.com/uc?export=download&id=1wrJcmFQHai3G0DXK19v5IQOJwMbhmdbt
 dft.Cyanide 1.90,http://robocode-archive.strangeautomata.com/robots/dft.Cyanide_1.90.jar
@@ -297,10 +291,7 @@ drm.CobraBora 1.12,http://robocode-archive.strangeautomata.com/robots/drm.CobraB
 drm.Magazine 0.39,http://robocode-archive.strangeautomata.com/robots/drm.Magazine_0.39.jar
 ds.OoV4 0.3b,http://robocode-archive.strangeautomata.com/robots/ds.OoV4_0.3b.jar
 ds.Versatile RB1.0.1,http://robocode-archive.strangeautomata.com/robots/ds.Versatile_RB1.0.1.jar
-dsekercioglu.mega.Raven 3.56j8,https://www.dropbox.com/s/ln53uvb3ddxe4bv/dsekercioglu.mega.Raven_3.56j8.jar?dl=1
-dsekercioglu.mega.WhiteFang 2.8.1,https://www.dropbox.com/s/bftqx43ndhspxar/dsekercioglu.mega.WhiteFang_2.8.1.jar?dl=1
 dsekercioglu.mini.Partial 0.1.3,https://www.dropbox.com/s/csz7bmkyoc7smm5/dsekercioglu.mini.Partial_0.1.3.jar?dl=1
-dsekercioglu.shield.ColdBreath 1.0,https://www.dropbox.com/s/5qiowh0qm6holb4/dsekercioglu.shield.ColdBreath_1.0.jar?dl=1
 dsw.StaticD 1.0,http://robocode-archive.strangeautomata.com/robots/dsw.StaticD_1.0.jar
 dsx724.VSAB_EP3_ATR 1.1,http://robocode-archive.strangeautomata.com/robots/dsx724.VSAB_EP3_ATR_1.1.jar
 dsx724.VSAB_EP3a 1.0,http://robocode-archive.strangeautomata.com/robots/dsx724.VSAB_EP3a_1.0.jar
@@ -375,7 +366,6 @@ fire219.CatBot 1.0,http://robocode-archive.strangeautomata.com/robots/fire219.Ca
 fire219.cymba.Cymba 1.8,http://robocode-archive.strangeautomata.com/robots/fire219.cymba.Cymba_1.8.jar
 florent.FloatingTadpole 1.2.6,http://robocode-archive.strangeautomata.com/robots/florent.FloatingTadpole_1.2.6.jar
 florent.small.LittleAngel 1.8,http://robocode-archive.strangeautomata.com/robots/florent.small.LittleAngel_1.8.jar
-florent.test.Toad 0.14t,http://robocode-archive.strangeautomata.com/robots/florent.test.Toad_0.14t.jar
 florent.XSeries.X2 0.17,http://wesley3.free.fr/florent.XSeries.X2_0.17.jar
 fm.claire 1.7,http://robocode-archive.strangeautomata.com/robots/fm.claire_1.7.jar
 fm.mammillarias 1.3,http://robocode-archive.strangeautomata.com/robots/fm.mammillarias_1.3.jar
@@ -423,7 +413,6 @@ gimp.GimpBot 0.1,http://robocode-archive.strangeautomata.com/robots/gimp.GimpBot
 gio.RealGioBot 1.0,http://robocode-archive.strangeautomata.com/robots/gio.RealGioBot_1.0.jar
 gjr.Cephalosporin 0.2,http://robocode-archive.strangeautomata.com/robots/gjr.Cephalosporin_0.2.jar
 goblin.Bender 2.4,http://robocode-archive.strangeautomata.com/robots/goblin.Bender_2.4.jar
-gre.svman4.Leonidas 1.3.2,https://drive.google.com/uc?export=download&id=1ZeSWWgjvqsnq-44JyQR776ebBuOnTTd3
 gre.svman4.Morfeas 1.4.3,https://drive.google.com/uc?export=download&id=1f2vZRXjkvbGV3htPNoF_0WU6sZmg0FOv
 grybgoofy.GoofyBot 0.10,http://robocode-archive.strangeautomata.com/robots/grybgoofy.GoofyBot_0.10.jar
 Grystrion.RandomTrackerNOREV 1.0,https://www.dropbox.com/s/9ym5golnwurhfxw/Grystrion.RandomTrackerNOREV_1.0.jar?dl=1
@@ -573,7 +562,6 @@ kneels.nano.Derp 0.2,http://www.schickt.de/robocode/kneels.nano.Derp_0.2.jar
 kneels.ToNoone 0.2,http://www.schickt.de/robocode/kneels.ToNoone_0.2.jar
 Krabb.fe4r.Fe4r 0.4,http://robocode-archive.strangeautomata.com/robots/Krabb.fe4r.Fe4r_0.4.jar
 Krabb.krabby.Krabby 1.18b,http://robocode-archive.strangeautomata.com/robots/Krabb.krabby.Krabby_1.18b.jar
-Krabb.sliNk.Garm 0.9u,http://robocode-archive.strangeautomata.com/robots/Krabb.sliNk.Garm_0.9u.jar
 krillr.mega.Psyche 0.0.3,http://robocode-archive.strangeautomata.com/robots/krillr.mega.Psyche_0.0.3.jar
 krillr.mini.JointStrike 2.0.0,http://robocode-archive.strangeautomata.com/robots/krillr.mini.JointStrike_2.0.0.jar
 kronenthaler.Basilisk 1.0,http://robocode-archive.strangeautomata.com/robots/kronenthaler.Basilisk_1.0.jar
@@ -669,7 +657,6 @@ mn.nano.perceptual.Impact 1.3.0,https://www.dropbox.com/s/njuuaycr3qswlgu/mn.nan
 mn.nano.SkippedTurns 1.1.0,https://www.dropbox.com/s/zyse3kc8awe9fiw/mn.nano.SkippedTurns_1.1.0.jar?dl=1
 mnt.AHEB 0.6a,http://robocode-archive.strangeautomata.com/robots/mnt.AHEB_0.6a.jar
 mnt.SurferBot 0.2.5,http://robocode-archive.strangeautomata.com/robots/mnt.SurferBot_0.2.5.jar
-morbid.MorbidPriest 1.0,http://robocode-archive.strangeautomata.com/robots/morbid.MorbidPriest_1.0.jar
 mrm.MightyMoose .2,http://robocode-archive.strangeautomata.com/robots/mrm.MightyMoose_.2.jar
 ms.Ares 0.19,http://robocode-archive.strangeautomata.com/robots/ms.Ares_0.19.jar
 mue.Ascendant 1.2.27,http://mue.sonar-echo.de/robocode/mue.Ascendant_1.2.27.jar
@@ -772,7 +759,6 @@ patson.PatsonTestBot 1.0,http://robocode-archive.strangeautomata.com/robots/pats
 paulk.PaulV3 1.7,http://robocode-archive.strangeautomata.com/robots/paulk.PaulV3_1.7.jar
 pb.Oscillator 1.0,http://robocode-archive.strangeautomata.com/robots/pb.Oscillator_1.0.jar
 pbg.NinjaX 1.2,https://github.com/realr2d2/Bots/blob/gh-pages/pbg.NinjaX_1.2.jar?raw=true
-pc.Wavelet 1.5,https://github.com/x1kong-ops/robocode-rumble/releases/download/v1.5/pc.Wavelet_1.5.jar
 pe.mini.SandboxMini 1.2,http://robocode-archive.strangeautomata.com/robots/pe.mini.SandboxMini_1.2.jar
 pe.minimelee.SandboxMiniMelee 1.1,http://robocode-archive.strangeautomata.com/robots/pe.minimelee.SandboxMiniMelee_1.1.jar
 pe.SandboxDT 3.02,http://robocode-archive.strangeautomata.com/robots/pe.SandboxDT_3.02.jar
@@ -847,7 +833,6 @@ rcp.Kuramatron 1.0,http://robocode-archive.strangeautomata.com/robots/rcp.Kurama
 rdm.Dueler 0.4x,https://drive.google.com/uc?export=download&id=16x234SaadG-76wT0TJhpyDTxdQhO-j3j
 rdm.Grasshopper 0.5e,https://drive.google.com/uc?export=download&id=13-quTbFF1hOypUo1NT1baiFb_vkB4JIR
 rdm.WallRider 0.5c,https://drive.google.com/uc?export=download&id=1dzZ-_Q_nDT9DG1uewhHRlFSPTHh91-Dt
-rdt.AgentSmith.AgentSmith 0.5,http://robocode-archive.strangeautomata.com/robots/rdt.AgentSmith.AgentSmith_0.5.jar
 rdt.AgentSmith.AgentSmithRedux 0.02,https://drive.google.com/uc?export=download&id=14odWavgKjNUvf29efol7at5ZJaMgoGeP
 rdt.Wraith.Wraith 0.3,https://drive.google.com/uc?export=download&id=1NUdMWb8ICysVBAgenjNc0fxP3qCnmsxb
 rdt199.Warlord 0.73,http://robocode-archive.strangeautomata.com/robots/rdt199.Warlord_0.73.jar
@@ -883,7 +868,6 @@ robots.Lucky 1.2,https://www.dropbox.com/s/p0kz8xzzpwxy89p/robots.Lucky_1.2.jar?
 romz.robot.circular.WildRabbit 0.9.6,http://robocode-archive.strangeautomata.com/robots/romz.robot.circular.WildRabbit_0.9.6.jar
 romz.robot.guessfactor.TeasingFox 0.2,http://robocode-archive.strangeautomata.com/robots/romz.robot.guessfactor.TeasingFox_0.2.jar
 romz.robot.Test 0.1.0,http://robocode-archive.strangeautomata.com/robots/romz.robot.Test_0.1.0.jar
-rsalesc.mega.Knight 0.6.28,https://drive.google.com/uc?export=download&id=1bn9HbZDEm-VGH6opcBW-6BEKrK2ILaW_
 rsalesc.roborio.Roborio 1.2.4,http://robocode-archive.strangeautomata.com/robots/rsalesc.roborio.Roborio_1.2.4.jar
 rsim.micro.uCatcher 0.1,http://robocode-archive.strangeautomata.com/robots/rsim.micro.uCatcher_0.1.jar
 rsim.mini.BulletCatcher 0.4,http://robocode-archive.strangeautomata.com/robots/rsim.mini.BulletCatcher_0.4.jar
@@ -1000,7 +984,6 @@ spinnercat.Kitten 1.6,http://robocode-archive.strangeautomata.com/robots/spinner
 spinnercat.Limit .01,http://robocode-archive.strangeautomata.com/robots/spinnercat.Limit_.01.jar
 spinnercat.mega.Tardis 1.2,http://robocode-archive.strangeautomata.com/robots/spinnercat.mega.Tardis_1.2.jar
 spinnercat.Robovirus 2.718,http://robocode-archive.strangeautomata.com/robots/spinnercat.Robovirus_2.718.jar
-sqTank.waveSurfing.LionWWSVMvoid 0.01,http://robocode-archive.strangeautomata.com/robots/sqTank.waveSurfing.LionWWSVMvoid_0.01.jar
 squidM.SquidmanNano 1.0,http://robocode-archive.strangeautomata.com/robots/squidM.SquidmanNano_1.0.jar
 squidM.SurfinUSA 1.0,http://robocode-archive.strangeautomata.com/robots/squidM.SurfinUSA_1.0.jar
 starpkg.StarViewerZ 1.26,http://robocode-archive.strangeautomata.com/robots/starpkg.StarViewerZ_1.26.jar
@@ -1078,7 +1061,6 @@ suzushin7.nano.TargetC 1.00,http://robocode-archive.strangeautomata.com/robots/s
 syl.Centipede 0.5,http://robocode-archive.strangeautomata.com/robots/syl.Centipede_0.5.jar
 synapse.Geomancy 15,http://robocode-archive.strangeautomata.com/robots/synapse.Geomancy_15.jar
 synapse.rsim.GeomancyBS 0.11,http://robocode-archive.strangeautomata.com/robots/synapse.rsim.GeomancyBS_0.11.jar
-synnalagma.NeuralPremier 0.51,http://robocode-archive.strangeautomata.com/robots/synnalagma.NeuralPremier_0.51.jar
 synnalagma.test.MiniNeural 1.1,http://robocode-archive.strangeautomata.com/robots/synnalagma.test.MiniNeural_1.1.jar
 t3.Ripper 1.0,https://www.dropbox.com/s/t3rxtjyw490zjbe/t3.Ripper_1.0.jar?dl=1
 tad.Dalek98 0.98,http://robocode-archive.strangeautomata.com/robots/tad.Dalek98_0.98.jar
@@ -1210,7 +1192,6 @@ zen.Mirage 0.9.5,https://github.com/erning/mechgarden/releases/download/robots-2
 zen.Ronin 1.0.0,https://github.com/erning/mechgarden/releases/download/robots-2026-06-24/zen.Ronin_1.0.0.jar
 zeze2.OperatorZeze 1.05,http://robocode-archive.strangeautomata.com/robots/zeze2.OperatorZeze_1.05.jar
 zezinho.QuerMePegarKKKK 1.0,http://robocode-archive.strangeautomata.com/robots/zezinho.QuerMePegarKKKK_1.0.jar
-zh.UnderDog 0.0.2,http://robocode-archive.strangeautomata.com/robots/zh.UnderDog_0.0.2.jar
 zignd.ZigIndexOutOfRange 1.1,http://robocode-archive.strangeautomata.com/robots/zignd.ZigIndexOutOfRange_1.1.jar
 zyx.mega.YersiniaPestis 3.0,http://robocode-archive.strangeautomata.com/robots/zyx.mega.YersiniaPestis_3.0.jar
 zyx.micro.Ant 1.1,http://robocode-archive.strangeautomata.com/robots/zyx.micro.Ant_1.1.jar
